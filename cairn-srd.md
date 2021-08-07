@@ -11,8 +11,8 @@ nav_order: 2
 **Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Cairn** ist ein Abenteuerspiel für einen Spielleiter (den **Wärter**) und mindestens einen weiteren Spieler.
+Die Spieler agieren als abgehärtete Abenteurer, die einen dunklen und mysteriösen Wald erforschen, in dem es seltsame Wesen, versteckte Schätze und unaussprechliche Monstrositäten gibt.
 
 ## Index
 - [Overview](#overview)
@@ -26,167 +26,166 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 - [Rules Summary](#rules-summary)
 
 
-## Overview
+## Übersicht
 
-**Cairn** was written with the following design philosophies in mind:
+**Cairn** wurde auf Grundlage folgender Grundsätze entwickelt:
 
-### Neutrality  
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+### Neutralität  
+Die Rolle des Wärters besteht darin, die Regeln, Situationen, NSCs und die Handlung klar zu beschreiben und gleichzeitig als neutraler Schiedsrichter zu fungieren.
 
-### Classless  
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
+### Klassenlos  
+Die Rolle oder die Fähigkeiten eines Charakters sind nicht durch eine Klasse eingeschränkt. Stattdessen bestimmen die getragene Ausrüstung und die gesammelten Erfahrungen seine Spezialisierung.
 
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+### Tod
+Charaktere mögen mächtig sein, aber sie sind auch anfällig für die verschiedensten Arten von Schaden. Der Tod lauert immer um die Ecke, aber er erfolgt nie zufällig oder ohne Vorwarnung.
 
-### Fiction First  
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+### Fiktion im Mittelpunkt  
+Würfel spiegeln nicht immer die Schwierigkeit eines Hindernisses oder dessen Ausgang wider. Stattdessen werden Erfolg und Misserfolg vom Wärter im Dialog mit den Spielern auf Grundlage von Elementen der Spielwelt entschieden.
 
-### Growth  
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+### Charakterentwicklung
+Charaktere verändern sich durch Entwicklungen in der Spielwelt, wobei sie neue Fertigkeiten und Fähigkeiten erlangen, indem sie gefährliche Situationen überstehen und Hindernisse überwinden.
 
-### Player Choice  
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+### Spielerentscheidungen  
+Die Spieler sollten immer die Gründe für die von ihnen getroffenen Entscheidungen verstehen, und Informationen über potenzielle Risiken sollten offen und regelmäßig vermittelt werden.
 
-### Principles  
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+### Grundsätze  
+Sowohl der Wärter als auch die Spieler verfügen über Richtlinien, die ein spezifisches Spielerlebnis fördern, das von kritischem Denken, Erkundung und einer sich entwickelnden Erzählung geprägt ist.
 
-### Shared Objectives
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
-
-[back to index](#index)
-<p></p>
-
-## Principles for Wardens
-### Information
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
-
-### Difficulty
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
-
-### Preparation
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do,and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
-
-### Narrative Focus  
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players,then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
-
-### Danger  
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
-
-### Treasure  
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
-
-### Choice  
-- Give players a solid choice to force outcomes when the situation  lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
-
-### Die of Fate  
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge,etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+### Gemeinsame Ziele
+Die Spieler vertrauen einander, dass sie sich auf die gemeinsame Spielumgebung, die Charakterziele und die Herausforderungen der Gruppe einlassen. Daher arbeitet die Gruppe in der Regel auf ein gemeinsames Ziel hin, als Team.
 
 [back to index](#index)
 <p></p>
 
-## Principles for Players
-### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+## Leitsätze für Wärter
+### Informationen
+- Gib nützliche Informationen über die Spielwelt, während die Charaktere sie erkunden.
+- Spieler brauchen nicht zu würfeln, um etwas über ihre Lage zu erfahren.
+- Sei hilfsbereit und direkt bei der Beantwortung ihrer Fragen.
+- Reagiere ehrlich, beschreibe konsequent und lasse sie immer wissen, dass sie weitere Fragen stellen können.
 
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+### Schwierigkeitsgrad
+- Berücksichtige eher Kontext und Realismus als Zahlen und Mechanismen.
+- Wenn etwas, was die Spieler tun wollen, wirklich unmöglich ist, wird kein Wurf es ihnen ermöglichen.
+- Ist das, was die Spieler beschreiben und wie sie die Situation ausnutzen, sinnvoll? Lass es geschehen.
+- Rettungswürfe decken den Großteil unsicherer Situationen ab und sind oft das einzige, was für riskante Aktionen notwendig ist.
 
-### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+### Vorbereitung
+- Die Spielwelt ist organisch, formbar und zufällig. Sie ist intuitiv verständlich und nimmt überraschende Wendungen.
+- Verwende Zufallstabellen und -generatoren, um Situationen zu gestalten, nicht festgelegte Geschichten oder Abläufe.
+- NSCs merken sich, wie die SCs reden und handeln, und wie sie die Welt beeinflussen.
+- NSCs wollen nicht sterben. Gib jeder Figur ein eigenes Ziel und einen Überlebenswillen.
 
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+### Narrativer Fokus  
+- Die sich entfaltende Spielerfahrung ist das was zählt, nicht die Mathematik oder die Charakterfähigkeiten. Gib den Spielern Waffentrainer und persönliche Quests, um Weiterentwicklung und Spezialisierung zu ermöglichen.
+- Achte auf die Bedürfnisse und Wünsche der Spieler und schaffe ihnen dann realistische Handlungsmöglichkeiten.
+- Ein Dolch an deiner Kehle wird dich töten, unabhängig von deiner teuren Rüstung und deinem beeindruckenden Training.
 
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+### Gefahr  
+- Die Spielwelt birgt konkrete Risiken hinsichtlich Schmerz und Tod für die Spielercharaktere.
+- Telegrafiere den Spielern ernsthafte Gefahren, sofern sie vorhanden sind. Je gefährlicher, desto offensichtlicher.
+- Platziere Fallen offensichtlich und lass den Spielern Zeit eine Lösung zu finden.
+- Gib den Spielern Gelegenheit, Probleme zu lösen und mit der Welt zu interagieren.
 
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
+### Schätze
+- Ein Schatz ist charakteristisch für die Umgebung, aus der er geborgen wurde. Er erzählt eine Geschichte.
+- Schätze sind äußerst wertvoll, meist sperrig und selten über ihren Wert und ihr Ansehen hinaus nützlich.
+- Relikte sind keine Schätze, obwohl sie nützlich und interessant sind.
+- Verwende Schätze als Lockmittel für exotische Orte, die von furchterregenden Widersachern beschützt werden.
+
+### Entscheidungen
+- Gib den Spielern klare Entscheidungsmöglichkeiten, um Ereignisse zu provozieren, wenn die Situation eintönig wird.
+- Verwende binäre "Also, A oder B?" Fragen, wenn ihre Absichten vage sind.
+- Arbeitet mittels dieser Gesprächsweise zusammen, um das Spiel in Bewegung zu halten.
+- Sorge dafür, dass die Handlungen der Spielercharaktere ihre Spuren in der Spielwelt hinterlassen.
+
+### Schicksalswürfel  
+- Gelegentlich wirst du dir ein Zufallselement wünschen (z.B. das Wetter, einzigartiges Charakterwissen usw.).
+- In solchen Situationen würfel 1W6. Ein Wurf von 4 oder mehr begünstigt im Allgemeinen die Spieler.
+- Ein Wurf von 3 oder weniger bedeutet in der Regel Pech für die SCs oder ihre Verbündeten.
+
+[back to index](#index)
+<p></p>
+
+## Leitsätze für Spieler
+### Handeln
+- Attribute und dazugehörige Rettungswürfe bestimmen nicht deinen Charakter. Sie sind Werkzeuge.
+- Frag nicht nur, wie dein Charakter handeln würde, frag auch, wie du handeln würdest.
+- Sei kreativ mit Vorstellungskraft, Gegenständen und Kontakten.
+
+### Teamarbeit
+- Suche den Zuspruch der anderen Spieler, bevor du dich in die Schlacht stürzt.
+- Seit euch über Ziele und Möglichkeiten einig, respektiert euch gegenseitig und erreicht als Gruppe mehr als im Alleingang.
+
+### Erkundung
+- Fragen zu stellen und auf Details zu achten ist nützlicher als alle Werte, Gegenstände oder Fähigkeiten.
+- Nimm die Beschreibung des Wärters ohne Misstrauen auf, aber scheue dich nicht, weitere Informationen zu erfragen.
+- Es gibt keinen einzig richtigen Weg.
+
+### Sprechen
+- Behandel NSCs wie echte Menschen, und verlasse dich auf deine Neugier, um auf verlässliche Weise Informationen zu erhalten und Probleme zu lösen.
+- Du wirst feststellen, dass die meisten Menschen interessant sind und über Dinge reden wollen, bevor sie handgreiflich werden.
+
+### Vorsicht
+- Kampf ist eine Wahl und selten eine kluge. Überlege, ob Gewalt der beste Weg zum Ziele ist.
+- Versuche, die Situation zu deinen Gunsten zu gestalten und ziehe dich zurück, wenn die Lage ungünstig scheint.
+
+### Planung
+- Überlege dir, wie du deine Hindernisse durch Erkundung, Scharfsinn und Informationsbeschaffung umgehen kannst.
+- Recherchiere und erkunde dich über deine Ziele.
 
 ### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+- Setze dir Ziele und nutze deine spärlichen Mittel, um weiterzukommen.
+- Erwarte nichts. Verdiene dir deinen Ruf.
+- Treibe die Dinge voran und spiele, um zu sehen, was passiert.
 
 [back to index](#index)
 <p></p>
 
-## Character Creation
+## Charaktererschaffung
 
-#### Name, Background & Traits
-First, choose or roll your PC’s **name** and ** background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+#### Name, Hintergrund und Merkmale
+Wähle oder würfel zunächst den **Namen** und den **Hintergrund** deines SCs aus den entsprechenden [Tabellen](#name--background-d20). Der Hintergrund eines SCs gibt Auskunft über sein mögliches Wissen und seine Fähigkeiten.
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+Als nächstes würfelst du für die restlichen **Merkmale** deines Charakters (Aussehen, Sprache, Eigenheiten, Überzeugungen, Ruf usw.) auf den [**Charaktermerkmale**](#character-traits-d10) Tabellen.
 
-Finally, roll for their **age** (2d20+10).
+Schließlich würfelst du für das **Alter** (2d20+10).
 
-#### Ability Scores  
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+#### Attributswerte
+Spielercharaktere (SCs) haben nur drei Attribute:  
+**Stärke (STR)**, **Geschicklichkeit (DEX)**, und **Willenskraft (WIL)**. Bei der Erstellung eines SCs würfelt der Spieler 3W6 für jeden der Attributswerte seines Charakters, und zwar in dieser Reihenfolge. Er kann dann zwei beliebige Werte vertauschen.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Erweitern Für Beispiel
  </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
-
+Ines würfelt für die **STR** ihres Charakters und erhält eine **2**, eine **4** und eine **6**, insgesamt also **12**. Die nächsten beiden Attributswürfe ergeben eine **9** für **DEX** und eine **13** für **WIL**. Sie entscheidet sich, die **12** und die **9** zu tauschen, um einen Charakter mit **9 STR**, **12 DEX** und **13** **WIL** zu erhalten.
 </details>
 
-### Hit Protection  
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+### Trefferschutz  
+Wirf 1W6, um den anfänglichen **Trefferschutz** (HP) deines SCs zu bestimmen, der seine Fähigkeit widerspiegelt, Schaden im Kampf zu vermeiden. Die HP geben weder die Gesundheit noch die Stärke eines Charakters an, noch verlieren sie diese für längere Zeit (siehe **Heilung**). Wenn ein Angriff die HP eines SCs genau auf 0 bringt, muss der Spieler auf der Tabelle [**Narben**](/cairn-srd#scars-1) würfeln.
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+#### Inventar
+Charaktere haben insgesamt 10 Inventarplätze: einen Rucksack mit sechs Plätzen, einen Platz für jede Hand und zwei Plätze für den Oberkörper (z. B. für den Gürtel, die Brust oder den Kopf). Der Rucksack kann auch als Notschlafsack verwendet werden, allerdings nur, wenn er leer ist.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+Die meisten Gegenstände nehmen einen Inventarplatz ein, und kleine Gegenstände können gebündelt werden. Die Plätze sind abstrakt und können nach dem Ermessen des Wärters neu geordnet werden.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
+**Sperrige** Gegenstände nehmen zwei Plätze ein und sind in der Regel beidhändig oder schwer zu tragen. Jeder, der ein volles Inventar mit sich führt (z.B. alle 10 Slots ausfüllt), wird auf 0 HP reduziert.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
+Ein SC kann nicht mehr Gegenstände tragen, als sein Inventar zulässt. Karren (die mit beiden Händen gezogen werden müssen), Pferde oder Maultiere können das Inventar erweitern.  Auch **Mietlinge** können für das Tragen von Ausrüstung bezahlt werden.
 
-#### Starting Gear
-All PCs begin with:
+#### Startausrüstung
+Alle SCs beginnen mit:
 
-- Three days' rations (one slot)
-- A torch (one slot)
-- 3d6 gold pieces
+- Rationen für drei Tage (ein Platz).
+- Eine Fackel (ein Platz)
+- 3W6 Goldstücke
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+Würfel einmal auf jeder der **Startausrüstungstabellen**, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deines SCs zu bestimmen. Falls angegeben, würfel auf die Tabelle [**Zauberbücher**](#spellbooks-d100) mit einem W100 (oder würfel 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand für jedes Ergebnis.
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+In der **Ausrüstungsliste** findest du die entsprechenden Werte für Rüstung, Schaden und Plätze. Kleinere Gegenstände können manchmal in einem Platz gebündelt werden.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+Wenn du etwas möchtest, das näher an den traditionellen Klassen liegt, sieh dir die Liste der [**Optionalen Ausrüstungspakete**](#optional-gear-packages) an.
 
 <p></p>
 
