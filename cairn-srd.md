@@ -605,75 +605,74 @@ Wenn du etwas möchtest, das näher an den traditionellen Klassen liegt, sieh di
 [back to index](#index)
 <p></p>
 
-## Rules
-### Abilities
-Each of the three **abilities** are used in different circumstances (see **saves**, below).
+## Regeln
+### Attribute
+Jede der drei **Attribute** wird unter verschiedenen Umständen eingesetzt (siehe **Rettungswürfe**, unten).
 
-**Strength (STR**): Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+**Stärke (STR**): Wird für Rettungswürfe verwendet, die körperliche Kraft erfordern, wie das Heben von Toren, Verbiegen von Stangen, Abwehren von Gift, usw.
 
-**Dexterity (DEX):** Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Geschicklichkeit (DEX)**: Wird für Rettungswürfe verwendet, die Gewandtheit, Schnelligkeit und Reflexe erfordern, wie Ausweichen, Klettern, Schleichen, Balancieren usw.
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**Willenskraft (WIL)**: Wird für Rettungswürfe bei Überreden, Täuschen, Verhören, Einschüchtern, Verführen, Provozieren, Beeinflussungszaubern usw. verwendet.
 
-### Saves
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+### Rettungswürfe
+Ein Rettungswurf ist ein Wurf, um negative Folgen von riskanten Entscheidungen und Umständen zu vermeiden. Die SCs würfeln einen W20 auf einen relevanten Attributswert. Wenn der Wurf gleich oder kleiner ist als der Attributswert, gelingt er. Andernfalls scheitert er. Eine 1 ist immer ein Erfolg, und eine 20 ist immer ein Misserfolg.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Erweitern Für Beispiel
  </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
-
+Bea trifft auf eine Gruppe schwer bewaffneter Goblins, die vor einem Tunneleingang Wache stehen. Die Spielerin überlegt sich einen Weg, denn sie weiß, dass sie sich mit 13 DEX am besten an den Wachen vorbeischleichen kann. Sie würfelt mit einem Würfel, und das Ergebnis ist eine 10 - ein Erfolg!
 </details>
 
-### Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+### Heilung
+Einen Moment ausruhen und einen Schluck Wasser trinken stellt verlorene Lebenspunkte wieder her, macht die Gruppe aber angreifbar. Der Verlust von Attributen (siehe **Kritischer Schaden**) kann in der Regel durch eine einwöchige Rast mithilfe eines Heilers oder einer anderen sachkundigen Quelle wiederhergestellt werden. Einige dieser Dienste sind kostenlos, während magische oder effektivere Mittel zur Wiederherstellung mit Kosten verbunden sein können.
 
-### Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
-PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+### Entzug & Erschöpfung
+Ein SC, dem ein wichtiges Bedürfnis (wie Nahrung oder Schlaf) **entzogen** wurde, ist nicht in der Lage, seine HP oder Attributswerte wiederherzustellen. Jeder, dem ein Bedürfnis länger als einen Tag entzogen wurde, fügt seinem Inventar eine **Erschöpfung** hinzu, jeweils eine für jeden Tag. Jede Erschöpfung belegt einen Platz und hält bis zur Erholung an (z. B. eine ganze Nacht Ruhe an einem sicheren Ort).  
+SCs können auch durch **zaubern** oder durch Ereignisse in der Fiktion Erschöpfung erlangen.
 
-### Armor
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+### Rüstung
+Vor der Schadensberechnung an HP wird der **Rüstungswert** des Ziels vom Ergebnis der Schadenswürfe abgezogen. Schilde und ähnliche Rüstungsteile bieten einen Verteidigungsbonus (z.B. +1 Rüstung), aber nur solange der Gegenstand gehalten oder getragen wird.  
+Niemand kann mehr als 3 Rüstung haben.  
+Schilde, Panzerhandschuhe und Helme können je nach ihrer Verwendung zusätzliche Vorteile bieten.
 
-### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+### Reaktionen
+Wenn die SCs auf einen NSC treffen, dessen Reaktion auf die Gruppe nicht offensichtlich ist, kann der Hüter 2W6 würfeln und die folgende Tabelle zu Rate ziehen:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
-|    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+| 2 | 3-5 | 6-8 | 9-11 | 12 |
+| Feindselig | Misstrauisch | Neugierig | Freundlich | Hilfreich |
 
-### Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+### Moral
+Feinde müssen einen Rettungswurf auf WIL bestehen, um nicht zu fliehen, wenn sie erste Verluste erleiden und erneut, wenn sie die Hälfte ihrer Zahl verlieren. Einige Gruppen können die WIL ihres Anführers anstelle ihrer eigenen verwenden. Einzelne Feinde müssen einen Rettungswurf ablegen, wenn sie auf 0 HP reduziert werden. Moral wirkt sich nicht auf SCs aus.
 
-### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+### Mietlinge
+SCs können **Mietlinge** anheuern, die sie bei ihren Expeditionen unterstützen. Um einen Mietling zu erschaffen, würfel 3W6 für jeden Attributswert, dann gib ihm 1W6 HP und eine einfache Waffe (W6), und würfel anschließend auf den Tabellen zur [**Charaktererschaffung**](#character-creation), um ihn weiter auszugestalten. Mietlinge kosten zwischen 1-3 GM pro Tag, oder einen Anteil der Schätzen, die die Gruppe erbeutet.
 
-### Wealth & Treasure
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+### Reichtum & Schätze
+Die gängigste Münze ist das Goldstück (GM), das 10 Silberstücken (SM) oder 100 Kupferstücken (KM) entspricht.
 
-Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+Schätze sind sehr wertvoll, meist sperrig und selten über ihren Wert hinaus nützlich. Sie können ein Lockmittel sein, das die SCs an exotische und sogar gefährliche Orte führt, und stehen oft unter dem Schutz furchterregender Feinde.
 
-Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+In Dörfern, Festungen und Hafenstädten wird je nach Seltenheit und Wert eines Gegenstandes oder einer Ware getauscht und gehandelt.
 
-## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+## Magie
+**Zauberbücher** enthalten einen einzigen Zauber und nehmen einen Platz ein. Sie können nicht umgeschrieben oder erschaffen werden. Stattdessen werden sie an Orten wie Gräbern, Kerkern und Schlössern gefunden.
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence,or being legible only when held in moonlight.
+Zauberbücher weisen manchmal ungewöhnliche Eigenschaften oder Einschränkungen auf, wie z. B. einen fauligen oder unheimlichen Geruch, wenn sie geöffnet werden, eine angeborene Intelligenz oder sie sind nur lesbar, wenn sie in Mondlicht gehalten werden.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+Zauberbücher ziehen die Aufmerksamkeit derer auf sich, die die arkane Macht in ihnen suchen, und es gilt als gefährlich, sie offen zur Schau zu stellen.
 
-**Scrolls** are similar to Spellbooks, however:
+**Schriftrollen** sind Zauberbüchern ähnlich, doch:
 
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
+- Sie beanspruchen keinen Platz im Inventar.
+- Sie verursachen keine Erschöpfung.
+- Sie verschwinden nach einmaligem Gebrauch.
 
-### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+### Zaubersprüche wirken
+Jeder kann einen Zauber wirken, indem er ein Zauberbuch in beiden Händen hält und dessen Inhalt laut vorliest. Er muss dann eine Erschöpfung zum Inventar hinzufügen, die einen Platz belegt. Wenn die SC genügend Zeit und Sicherheit hat, kann er die Wirkung eines Zaubers _verbessern_ (z. B. mehrere Ziele treffen, seine Macht erhöhen usw.), ohne dass zusätzliche Kosten entstehen. Wenn die SC an Entzug leidet oder sich in Gefahr befinden, kann der Hüter von der SC einen Rettungswurf auf WIL verlangen, um negative Auswirkungen des Zaubers zu vermeiden. Die Folgen eines Misserfolgs entsprechen dem beabsichtigten Effekt und können zusätzliche Erschöpfung, die Zerstörung des Zauberbuchs, Verletzungen und sogar den Tod zur Folge haben.
 
 ### Relics
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
@@ -686,73 +685,73 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 
 **Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
 
-## Combat
+## Kampf
 
-### Rounds
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
+### Runden
+Das Spiel läuft normalerweise ohne strenge Zeitrechnung ab. In einem Kampf oder unter Umständen, in denen Zeitmessung hilfreich ist, verwende Runden, um den Überblick zu behalten, wann etwas passiert. Eine **Runde** entspricht etwa zehn Sekunden Spielzeit und setzt sich aus Zügen zusammen.
 
-### Actions  
-On their turn, a character may move up to 40ft and take up to one action. This may be _casting a spell, attacking, making a second move, or some other reasonable action.
+### Aktionen  
+In seinem Zug kann sich ein Charakter bis zu 12 Meter weit bewegen und eine Aktion ausführen. Dies kann das Wirken eines Zaubers, ein Angriff, eine zweite Bewegung oder eine andere sinnvolle Aktion sein.
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+Jede Runde erklären die SCs, was sie tun, bevor gewürfelt wird. Wenn ein Charakter etwas Riskantes versucht, fordert der Hüter einen Rettungswurf von den betroffenen Spielenden oder NSCs.
 
-### Turns
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
-</details>
-
-### Attacking & Damage
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+### Runden
+Der Hüter wird die voraussichtlichen Aktionen der NSCs oder Monster ankündigen. Zu Beginn des Kampfes muss jede SC einen Rettungswurf auf DEX durchführen, um vor ihren Gegnern zu handeln.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Erweitern Für Beispiel
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
+Bea ist versehentlich in das Revier eines riesigen Waldtrolls gestolpert. Um sich vor dem Troll bewegen zu können, muss sie einen Rettungswurf auf DEX ablegen. Sie scheitert, und der Troll darf zuerst angreifen.
 </details>
 
-### Multiple Attackers  
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+### Angriff & Schaden
+Der Angreifer würfelt mit seinem Waffenwürfel, zieht die Rüstung des Ziels ab und zieht den verbleibenden Wert den HP des Gegners ab. Unbewaffnete Angriffe richten immer 1W4 Schaden an.
 
-### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+<details markdown="block">
+  <summary>
+Erweitern Für Beispiel
+ </summary>
+Der Waldtroll brüllt und schwingt seine Keule nach Bea, die 5 HP hat. Die Keule verursacht 1W10 Schaden und der Hüter würfelt eine 4. Er zieht 1 ab, um Beas Lederrüstung zu berücksichtigen, so dass Bea noch 2 HP bleiben.
+</details>
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+### Mehrere Angreifer  
+Wenn mehrere Angreifer auf denselben Gegner zielen, würfel alle Schadenswürfel und nimmt nur das höchste Ergebnis.
 
-### Dual Weapons
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+### Angriffsmodifikatoren
+Wenn der Angreifende aus einer Position der Schwäche heraus kämpft (z.B. durch eine Deckung oder mit gefesselten Händen), ist der Angriff **beeinträchtigt** und der Angreifende muss unabhängig vom Schadenswürfel des Angriffs 1W4 Schaden würfeln.
 
-### Blast  
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+Kämpft der Angreifende aus einer vorteilhaften Position heraus (z.B. gegen einen hilflosen Gegner oder durch ein gewagtes Manöver), gilt der Angriff als **verstärkt** und der Angreifende darf 1W12 Schaden anstelle seines normalen Würfels würfeln.
 
-### Critical Damage
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+### Angriff mit zwei Waffen
+Wenn man mit zwei Waffen gleichzeitig angreift, würfelt man mit beiden Schadenswürfeln und nimmt nur das höchste Ergebnis.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+### Explosion  
+Angriffe mit der Eigenschaft **Explosion** wirken sich auf alle Ziele in dem angegebenen Bereich aus, wobei für jeden betroffenen Charakter separat gewürfelt wird. Der Begriff "Explosion" bezieht sich auf alles, von Explosionen über riesige zerstörende Angriffe bis hin zum Einschlag eines Meteoriten. Wenn du nicht sicher bist, wie viele Ziele betroffen sein können, wirf den entsprechenden Schadenswürfel, um eine mögliche Anzahl zu erhalten.
 
-### Ability Score Loss
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+### Kritischer Schaden
+Schaden, der die HP eines Ziels unter Null reduziert, verringert die STR des Ziels um den verbleibenden Wert. Es muss dann einen Rettungswurf auf STR abgelegt werden, um **kritischen Schaden** zu vermeiden. Zusätzlich haben einige Feinde spezielle Fähigkeiten oder Effekte, die ausgelöst werden, wenn ihr Ziel kritischen Schaden erleidet.
 
-### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+Jede SC, die kritischen Schaden erleidet, kann nichts anderes tun, als kraftlos zu kriechen und um ihr Leben zu ringen. Wenn ihr geholfen wird und sie sich ausruht, wird sie sich stabilisieren. Wenn sie nicht behandelt wird, stirbt sie innerhalb einer Stunde.
 
-### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+### Verlust von Attributswerten
+Wenn die STR einer SCs auf 0 reduziert wird, stirbt sie. Wenn sein DEX Wert auf 0 sinkt, ist sie gelähmt. Wenn ihr WIL auf 0 reduziert wird, ist sie im Delirium.
+Bei vollständigem Verlust von DEX und WIL ist der Charakter handlungsunfähig, bis er durch längere Ruhepausen oder durch außergewöhnliche Mittel geheilt wird.  
 
-### Detachments
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+### Narben
+Wenn Schaden an einer SC ihre HP auf genau 0 reduziert, wird sie manchmal dauerhaft verändert. Siehe die Tabelle [**Narben**](/cairn-srd#scars-1) für weitere Informationen.
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+### Bewusstlosigkeit & Tod
+Wenn ein Charakter stirbt, steht es dem Spielenden frei, einen neuen Charakter zu erstellen oder die Kontrolle über einen Mietling zu übernehmen. Dieser schließen sich sofort der Gruppe an, um die Ausfallzeit zu verkürzen.
 
-### Retreat
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+### Truppen
+Große Gruppen von gleichartigen Kämpfern, die zusammen kämpfen, werden als eine einzige **Truppe** behandelt. Wenn eine Truppe kritischen Schaden erleidet, wird sie aufgerieben oder erheblich geschwächt. Wenn sie 0 STR erreicht, wird sie zerstört.
+
+Angriffe gegen Truppen durch Einzelpersonen sind **beeinträchtigt** (außer Explosionsschaden).  
+Angriffe gegen Einzelpersonen durch Truppen sind **verstärkt** und verursachen Explosionsschaden.
+
+### Rückzug
+Die Flucht aus einer brenzligen Situation erfordert immer einen erfolgreichen Rettungswurf auf DEX sowie ein sicheres Fluchtziel.
 
 ### Scars
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
