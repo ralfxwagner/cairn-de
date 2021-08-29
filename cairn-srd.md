@@ -161,7 +161,7 @@ Ines würfelt für die **ST** ihrer Spielfigur und erhält eine **2**, eine **4*
 </details>
 
 #### Trefferschutzpunkte  
-Würfel 1W6, um den anfänglichen **Trefferschutzpunkte (TP)** deiner SC zu bestimmen, die ihre Fähigkeit widerspiegelt, Schaden im Kampf zu vermeiden. Die TP geben weder die Gesundheit noch die Stärke einer SC an, noch verliert sie diese für längere Zeit (siehe **Heilung**). Wenn ein Angriff die TP einer SC auf 0 bringt, muss auf der Tabelle [**Narben**](/cairn-srd#Narben) die Folge erwürfelt werden.
+Würfel 1W6, um den anfänglichen **Trefferschutzpunkte (TP)** deiner SC zu bestimmen, die ihre Fähigkeit widerspiegelt, Schaden im Kampf zu vermeiden. Die TP geben weder die Gesundheit noch die Stärke einer SC an, noch verliert sie diese für längere Zeit (siehe **Heilung**). Wenn ein Angriff die TP einer SC auf 0 bringt, muss auf der Tabelle [**Narben**](#Narben-1) die Folge erwürfelt werden.
 
 #### Inventar
 SC haben insgesamt 10 Inventarplätze. Einen Rucksack mit sechs Plätzen, einen Platz für jede Hand und zwei Plätze für den Oberkörper (z. B. für den Gürtel, die Brust oder den Kopf). Der Rucksack kann auch als Notschlafsack verwendet werden, allerdings nur, wenn er leer ist.
