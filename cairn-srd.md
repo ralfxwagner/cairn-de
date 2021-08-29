@@ -16,7 +16,7 @@ Die Spielenden agieren als abgehärtete Abenteurer*innen, die einen dunklen und 
 ## Index
 - [Übersicht](#Übersicht)
 - [Leitsätze für die Spielleitung](#Leitsätze-für-die-Spielleitung)
-- [Leitsätze für Spielenden](#Leitsätze-für-Spielende)
+- [Leitsätze für Spielende](#Leitsätze-für-Spielende)
 - [Charaktererschaffung](#Charaktererschaffung)
 - [Ausrüstungsliste](#Ausrüstungsliste)
 - [Regeln](#Regeln)
