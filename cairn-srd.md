@@ -722,7 +722,7 @@ Wenn ein Angriff die TP einer SC auf genau 0 reduziert, hat das Folgen. Ermittle
 | 1 | Dauerhafte Narbe: Würfel 1W6; 1: Hals, 2: Hände, 3: Auge, 4: Brustkorb, 5: Beine, 6: Ohr. Würfel 1W6. Wenn das Ergebnis höher ist als deine maximalen TP, nimm das neue Ergebnis. |
 | 2 | Niederschmetternder Hieb: Du bist desorientiert und durchgeschüttelt. Beschreibe, wie du dich wieder sammelst. Würfel 1W6. Wenn das Ergebnis höher ist als deine maximalen TP, nimm das neue Ergebnis. |
 | 3 | Überrollt: Du wirst durch die Luft geschleudert und landest auf deinem Gesicht. Du bist in **Bedrängnis**, bis du dich ein paar Stunden lang ausgeruht hast. Dann würfelst du 1W6. Addiere diesen Wert zu deinen maximalen TP. |
-| 4. Gebrochene Gliedmaßen: Würfel 1W6; 1-2: Bein, 3-4: Arm, 5: Rippe, 6: Schädel. Nach der Heilung würfelst du 2W6. Wenn die Summe höher ist als deine maximalen TP, nimm das neue Ergebnis. |
+| 4 | Gebrochene Gliedmaßen: Würfel 1W6; 1-2: Bein, 3-4: Arm, 5: Rippe, 6: Schädel. Nach der Heilung würfelst du 2W6. Wenn die Summe höher ist als deine maximalen TP, nimm das neue Ergebnis. |
 | 5 | Erkrankt: Du bist mit einer ekelhaften, unangenehmen Krankheit infiziert. Wenn du sie überwunden hast, würfel 2W6. Wenn das Ergebnis höher ist als deine maximalen TP, nimm das neue Ergebnis. |
 | 6 | Wiedererweckung durch Kopfwunde: Würfel 1W6; 1-2: ST, 3-4: GE, 5-6: WK und anschließend 3W6. Wenn die Summe höher ist als dein Attributswert, nimm das neue Ergebnis. |
 | 7 | Gelähmt: Du kannst dich kaum bewegen, bis du ernsthafte Hilfe bekommst und dich ausruhst. Nach der Genesung würfelst du 3W6. Wenn die Summe höher ist als deine maximalen GE, nimm das neue Ergebnis. |
