@@ -25,7 +25,7 @@ Die Spielenden agieren als abgehärtete Abenteurer*innen, die einen dunklen und 
 - [Regelzusammenfassung](#Regelzusammenfassung)
 
 
-##Übersicht
+## Übersicht
 
 **Cairn** wurde auf Grundlage folgender Grundsätze entwickelt:
 
