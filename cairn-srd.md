@@ -178,11 +178,11 @@ Alle SC beginnen mit:
 - Eine Fackel (ein Platz)
 - 3W6 Goldstücke
 
-Würfel einmal auf jede der **Startausrüstungstabellen**, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls angegeben, würfel auf die Tabelle [**Zauberbuch (W100)**](#Zauberbuch-W100) mit einem W100 (oder würfel 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand für jedes Ergebnis.
+Würfel einmal auf jede der **Startausrüstungstabellen**, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls angegeben, würfel auf die Tabelle [**100 Zauber**](#100-Zauber) mit einem W100 (oder würfel 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand für jedes Ergebnis.
 
 In der **Ausrüstungsliste** findest du die entsprechenden Werte für Rüstung, Schaden und Plätze. Kleinere Gegenstände können manchmal in einem Platz gebündelt werden.
 
-Wenn du etwas möchtest, das näher an den traditionellen Klassen liegt, sieh dir die Liste der [**optionalen Ausrüstungspakete**](#Optionalen-Ausrüstungspakete) an.
+Wenn du etwas möchtest, das näher an den traditionellen Klassen liegt, sieh dir die Liste der [**optionalen Ausrüstungspakete**](#Optionale-Ausrüstungspakete) an.
 
 <p></p>
 
