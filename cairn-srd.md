@@ -15,8 +15,8 @@ Die Spielenden agieren als abgehärtete Abenteurer*innen, die einen dunklen und 
 
 ## Index
 - [Übersicht](#Übersicht)
-- [Leitsätze für die Spielleitung](#Leitsätze-für-die_Spielleitung)
-- [Leitsätze für Spielenden](#Leitsätze-für-Spielenden)
+- [Leitsätze für die Spielleitung](#Leitsätze-für-die-Spielleitung)
+- [Leitsätze für Spielenden](#Leitsätze-für-Spielende)
 - [Charaktererschaffung](#Charaktererschaffung-(W10))
 - [Startausrüstung](#Startausrüstung-(W20))
 - [Regeln](#Regeln)
@@ -106,7 +106,7 @@ Die Spielenden sollen einander vertrauen, dass sie sich auf die gemeinsame Spiel
 [Zurück zum Index](#index)
 <p></p>
 
-## Leitsätze für Spielenden
+## Leitsätze für Spielende
 ### Handeln
 - Attribute und dazugehörige Rettungswürfe bestimmen nicht deine SC. Es sind Werkzeuge.
 - Frag nicht nur, wie deine SC handeln würde, frag dich auch, wie du handeln würdest.
