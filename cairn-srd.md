@@ -612,7 +612,7 @@ Wenn die SC auf NSC treffen, deren Reaktion auf die Gruppe nicht offensichtlich 
 Feinde müssen einen Rettungswurf auf WK bestehen, um nicht zu fliehen, wenn sie erste Verluste erleiden und erneut, wenn sie die Hälfte ihrer Zahl verlieren. Einige Gruppen können die WK ihrer Anführer*in anstelle ihrer eigenen verwenden. Einzelne Feinde müssen einen Rettungswurf ablegen, wenn sie auf 0 TP reduziert werden. Moral wirkt sich nicht auf SC aus.
 
 ### Mietlinge
-SC können **Mietlinge** anheuern, die sie bei ihren Expeditionen unterstützen. Um einen Mietling zu erschaffen, würfel 3W6 für jeden Attributswert, dann gib ihm 1W6 TP und eine einfache Waffe (W6), und würfel anschließend auf den Tabellen zur [**Charaktererschaffung**](#Charakterereigenschaften (1W10)), um ihn weiter auszugestalten. Mietlinge kosten zwischen 1-3 GM pro Tag oder einen Anteil der Schätze, die erbeutet werden.
+SC können **Mietlinge** anheuern, die sie bei ihren Expeditionen unterstützen. Um einen Mietling zu erschaffen, würfel 3W6 für jeden Attributswert, dann gib ihm 1W6 TP und eine einfache Waffe (W6), und würfel anschließend auf den Tabellen zur [**Charaktererschaffung**](#Charaktererschaffung), um ihn weiter auszugestalten. Mietlinge kosten zwischen 1-3 GM pro Tag oder einen Anteil der Schätze, die erbeutet werden.
 
 ### Reichtum & Schätze
 Die gängigste Münze ist das Goldstück (GM), das 10 Silberstücken (SM) oder 100 Kupferstücken (KM) entspricht.
@@ -701,7 +701,7 @@ Wenn die ST einer SC auf 0 reduziert wird, stirbt sie. Wenn sein GE Wert auf 0 s
 Bei vollständigem Verlust von GE und WK ist die SC handlungsunfähig, bis er durch längere Ruhepausen oder sie durch außergewöhnliche Mittel geheilt wird.  
 
 ### Narben
-Wenn Schaden an einer SC ihre TP auf genau 0 reduziert, wird sie manchmal dauerhaft verändert. Siehe die Tabelle [**Narben**](/cairn-srd#Narben) für weitere Informationen.
+Wenn Schaden an einer SC ihre TP auf genau 0 reduziert, wird sie manchmal dauerhaft verändert. Siehe die Tabelle [**Narben**](#Narben-1) für weitere Informationen.
 
 ### Bewusstlosigkeit & Tod
 Wenn eine SC stirbt, steht es dem Spielenden frei, eine neue SC zu erstellen oder die Kontrolle über einen Mietling zu übernehmen. Dieser schließen sich sofort der Gruppe an, um die Ausfallzeit zu verkürzen.
@@ -960,7 +960,7 @@ attacks always do 1d4 damage. If **multiple attackers** target the same foe, rol
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 **DAMAGE**  
-If an attack takes a PC’s HP exactly to 0, the player rolls on the [**Scars**](/cairn-srd#scars-1) table.
+If an attack takes a PC’s HP exactly to 0, the player rolls on the [**Scars**](#Narben-1) table.
 
 Damage that reduces a target’s HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
