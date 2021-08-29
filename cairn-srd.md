@@ -144,9 +144,9 @@ Die Spielenden sollen einander vertrauen, dass sie sich auf die gemeinsame Spiel
 ## Charaktererschaffung
 
 #### Name, Hintergrund und Merkmale
-Wähle oder würfel zunächst den **Namen** und das **ehemalige Metier** deiner SC aus den entsprechenden [Tabellen](#name-&-hintergrund-(W20)). Der Hintergrund einer SC gibt Auskunft über ihr mögliches Wissen und seine Fähigkeiten.
+Wähle oder würfel zunächst den **Namen** und das **ehemalige Metier** deiner SC aus den entsprechenden [Tabellen](#name--hintergrund-W20). Der Hintergrund einer SC gibt Auskunft über ihr mögliches Wissen und seine Fähigkeiten.
 
-Als Nächstes würfelst du für die restlichen **Merkmale** deiner SC (Aussehen, Sprache, Eigenheiten, Überzeugungen, Ruf usw.) auf den [**Merkmaltabellen**](#Merkmale-(W10)).
+Als Nächstes würfelst du für die restlichen **Merkmale** deiner SC (Aussehen, Sprache, Eigenheiten, Überzeugungen, Ruf usw.) auf den [**Merkmaltabellen**](#Merkmale-W10).
 
 Schließlich würfelst du für das **Alter** (2W20+10).
 
@@ -178,7 +178,7 @@ Alle SC beginnen mit:
 - Eine Fackel (ein Platz)
 - 3W6 Goldstücke
 
-Würfel einmal auf jede der **Startausrüstungstabellen**, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls angegeben, würfel auf die Tabelle [**Zauberbuch (W100)**](#Zauberbuch-(W100)) mit einem W100 (oder würfel 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand für jedes Ergebnis.
+Würfel einmal auf jede der **Startausrüstungstabellen**, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls angegeben, würfel auf die Tabelle [**Zauberbuch (W100)**](#Zauberbuch-W100) mit einem W100 (oder würfel 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand für jedes Ergebnis.
 
 In der **Ausrüstungsliste** findest du die entsprechenden Werte für Rüstung, Schaden und Plätze. Kleinere Gegenstände können manchmal in einem Platz gebündelt werden.
 
