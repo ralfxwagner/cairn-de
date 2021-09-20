@@ -8,7 +8,7 @@ nav_order: 2
 
 <p></p>
 
-**Cairn** ist unter [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) lizenziert.  Das Englische Original ist auf der [Projektseite](https://github.com/yochaigal/cairn) zu finden, und in anderen [Formaten](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (einschließlich Word, Affinity, Google Docs, etc.) herunterladbar.
+**Cairn** ist unter [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) lizenziert.  Das englische Original ist auf der [Projektseite](https://github.com/yochaigal/cairn) zu finden, und in anderen [Formaten](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (einschließlich Word, Affinity, Google Docs, etc.) herunterladbar.
 
 **Cairn** ist ein Abenteuerspiel für eine Spielleitung und mindestens eine weitere spielende Person.
 Die Spielenden agieren als abgehärtete Abenteurer*innen, die einen dunklen und mysteriösen Wald erforschen, in dem es seltsame Kreaturen, versteckte Schätze und unaussprechliche Monstrositäten gibt.
@@ -29,7 +29,7 @@ Die Spielenden agieren als abgehärtete Abenteurer*innen, die einen dunklen und 
 
 **Cairn** wurde auf Grundlage folgender Grundsätze entwickelt:
 
-###Neutralität  
+### Neutralität
 Die Rolle der Spielleitung (SL) besteht darin, die Regeln, Situationen, **Nichtspielcharakterfiguren (NSC)** und Handlung klar zu beschreiben und gleichzeitig unparteiisch Unklarheiten zu lösen.
 
 ### Klassenlos  
@@ -51,7 +51,7 @@ Den Spielenden sollten immer alle Informationen zu potenziellen Risiken offen un
 Sowohl die SL als auch die Spielenden verfügen über Richtlinien, die ein spezifisches Spielerlebnis fördern, das von kritischem Denken, Erkundung und einer sich entwickelnden Erzählung geprägt ist.
 
 ### Gemeinsame Ziele  
-Die Spielenden sollen einander vertrauen, dass sie sich auf die gemeinsame Spielumgebung, Ziele und die Herausforderungen der Gruppe einlassen. Daher arbeitet die Gruppe in der Regel auf ein gemeinsames Ziel hin, als Team.
+Die Spielenden sollen einander vertrauen, dass sie sich auf die gemeinsame Spielumgebung, Ziele und die Herausforderungen der Gruppe einlassen. Daher arbeitet die Gruppe in der Regel als Team auf ein gemeinsames Ziel hin.
 
 [Zurück zum Index](#index)
 <p></p>
@@ -59,7 +59,7 @@ Die Spielenden sollen einander vertrauen, dass sie sich auf die gemeinsame Spiel
 ## Leitsätze für die Spielleitung 
 ### Informationen  
 - Gib nützliche Informationen über die Spielwelt, während die SC sie erkunden.
-- Spielenden brauchen nicht zu würfeln, um etwas über ihre Lage zu erfahren.
+- Spielende brauchen nicht zu würfeln, um etwas über ihre Lage zu erfahren.
 - Sei hilfsbereit und direkt bei der Beantwortung von Fragen.
 - Reagiere ehrlich, beschreibe konsequent und lasse die Spielenden immer wissen, dass sie weitere Fragen stellen können.
 
@@ -67,7 +67,7 @@ Die Spielenden sollen einander vertrauen, dass sie sich auf die gemeinsame Spiel
 - Berücksichtige eher Kontext und Realismus als Zahlen und Mechanismen.
 - Wenn etwas, was die Spielenden tun wollen, wirklich unmöglich ist, wird keine Würfelprobe es ihnen ermöglichen.
 - Ist das, was die Spielenden beschreiben und wie sie die Situation ausnutzen, sinnvoll? Lass es geschehen.
-- **Rettungswürfe* decken den Großteil unsicherer Situationen ab und sind oft das einzige notwendige für riskante Aktionen.
+- **Rettungswürfe** decken den Großteil unsicherer Situationen ab und sind oft das einzig Notwendige für riskante Aktionen.
 
 ### Vorbereitung  
 - Die Spielwelt ist organisch, formbar und zufällig. Sie ist intuitiv verständlich und nimmt überraschende Wendungen.
@@ -95,7 +95,7 @@ Die Spielenden sollen einander vertrauen, dass sie sich auf die gemeinsame Spiel
 ### Entscheidungen
 - Gib den Spielenden klare Entscheidungsmöglichkeiten, um Ereignisse zu provozieren, wenn die Situation eintönig wird.
 - Verwende binäre „Also, A oder B?“ Fragen, wenn ihre Absichten vage sind.
-- Arbeitet mittels dieser gesprächsweise zusammen, um das Spiel in Bewegung zu halten.
+- Arbeitet mittels dieser Gesprächsweise zusammen, um das Spiel in Bewegung zu halten.
 - Sorge dafür, dass die Handlungen der SC ihre Spuren in der Spielwelt hinterlassen.
 
 ### Schicksalswürfel  
@@ -114,7 +114,7 @@ Die Spielenden sollen einander vertrauen, dass sie sich auf die gemeinsame Spiel
 
 ### Teamarbeit
 - Suche den Zuspruch der anderen Spielenden, bevor du dich in die Schlacht stürzt.
-- Seit euch über Ziele und Möglichkeiten einig, respektiert euch gegenseitig. So erreicht ihr als Gruppe mehr als im Alleingang.
+- Seid euch über Ziele und Möglichkeiten einig, respektiert euch gegenseitig. So erreicht ihr als Gruppe mehr als im Alleingang.
 
 ### Erkundung
 - Fragen zu stellen und auf Details zu achten ist nützlicher als Werte, Gegenstände oder Fähigkeiten.
@@ -122,11 +122,11 @@ Die Spielenden sollen einander vertrauen, dass sie sich auf die gemeinsame Spiel
 - Es gibt keinen einzig richtigen Weg.
 
 ### Sprechen
-- Behandel NSC wie echte Menschen, und verlasse dich auf deine Neugier, um auf verlässliche Weise Informationen zu erhalten und Probleme zu lösen.
+- Behandele NSC wie echte Menschen, und verlasse dich auf deine Neugier, um auf verlässliche Weise Informationen zu erhalten und Probleme zu lösen.
 - Du wirst feststellen, dass die meisten Menschen interessant sind und über Dinge reden wollen, bevor sie handgreiflich werden.
 
 ### Vorsicht
-- Kampf ist eine Wahl und selten eine kluge. Überlege, ob Gewalt der beste Weg zum Ziele ist.
+- Kampf ist eine Wahl und selten eine kluge. Überlege, ob Gewalt der beste Weg zum Ziel ist.
 - Versuche, die Situation zu deinen Gunsten zu gestalten, und ziehe dich zurück, wenn die Lage ungünstig scheint.
 
 ### Planung
@@ -144,7 +144,7 @@ Die Spielenden sollen einander vertrauen, dass sie sich auf die gemeinsame Spiel
 ## Charaktererschaffung
 
 #### Name, Hintergrund und Merkmale
-Wähle oder würfel zunächst den **Namen** und das **ehemalige Metier** deiner SC aus den entsprechenden [Tabellen](#name--hintergrund-W20). Der Hintergrund einer SC gibt Auskunft über ihr mögliches Wissen und seine Fähigkeiten.
+Wähle oder würfel zunächst den **Namen** und das **ehemalige Metier** deiner SC aus den entsprechenden [Tabellen](#name--hintergrund-W20). Der Hintergrund einer SC gibt Auskunft über ihr mögliches Wissen und Fähigkeiten.
 
 Als Nächstes würfelst du für die restlichen **Merkmale** deiner SC (Aussehen, Sprache, Eigenheiten, Überzeugungen, Ruf usw.) auf den [**Merkmaltabellen**](#Merkmale-W10).
 
@@ -161,10 +161,10 @@ Ines würfelt für die **ST** ihrer Spielfigur und erhält eine **2**, eine **4*
 </details>
 
 #### Trefferschutzpunkte  
-Würfel 1W6, um den anfänglichen **Trefferschutzpunkte (TP)** deiner SC zu bestimmen, die ihre Fähigkeit widerspiegelt, Schaden im Kampf zu vermeiden. Die TP geben weder die Gesundheit noch die Stärke einer SC an, noch verliert sie diese für längere Zeit (siehe **Heilung**). Wenn ein Angriff die TP einer SC auf 0 bringt, muss auf der Tabelle [**Narben**](#Narben-1) die Folge erwürfelt werden.
+Würfel 1W6, um die anfänglichen **Trefferschutzpunkte (TP)** deiner SC zu bestimmen, die ihre Fähigkeit widerspiegelt, Schaden im Kampf zu vermeiden. Die TP geben weder die Gesundheit noch die Stärke einer SC an, noch verliert sie diese für längere Zeit (siehe **Heilung**). Wenn ein Angriff die TP einer SC auf 0 bringt, muss auf der Tabelle [**Narben**](#Narben-1) die Folge erwürfelt werden.
 
 #### Inventar
-SC haben insgesamt 10 Inventarplätze. Einen Rucksack mit sechs Plätzen, einen Platz für jede Hand und zwei Plätze für den Oberkörper (z. B. für den Gürtel, die Brust oder den Kopf). Der Rucksack kann auch als Notschlafsack verwendet werden, allerdings nur, wenn er leer ist.
+SC haben insgesamt zehn Inventarplätze. Einen Rucksack mit sechs Plätzen, einen Platz für jede Hand und zwei Plätze für den Oberkörper (z. B. für den Gürtel, die Brust oder den Kopf). Der Rucksack kann auch als Notschlafsack verwendet werden, allerdings nur, wenn er leer ist.
 
 Die meisten Gegenstände nehmen einen Inventarplatz ein, und kleine Gegenstände können gebündelt werden. Die Plätze sind abstrakt und können nach dem Ermessen der SL neu geordnet werden.
 
@@ -178,7 +178,7 @@ Alle SC beginnen mit:
 - Eine Fackel (ein Platz)
 - 3W6 Goldstücke
 
-Würfel einmal auf jede der **Startausrüstungstabellen**, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls angegeben, würfel auf die Tabelle [**100 Zauber**](#100-Zauber) mit einem W100 (oder würfel 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand für jedes Ergebnis.
+Würfel einmal auf jeder der **Startausrüstungstabellen**, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls angegeben, würfel auf der Tabelle [**100 Zauber**](#100-Zauber) mit einem W100 (oder würfel 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand für jedes Ergebnis.
 
 In der **Ausrüstungsliste** findest du die entsprechenden Werte für Rüstung, Schaden und Plätze. Kleinere Gegenstände können manchmal in einem Platz gebündelt werden.
 
@@ -237,7 +237,7 @@ Wenn du etwas möchtest, das näher an den traditionellen Klassen liegt, sieh di
 |  |          |      |            |
 | -------- | -------- | ---- | ---------- |
 | 1        | Athletisch| 6    | Dürr   |
-| 2        | Bullig  | 7    | Short      |
+| 2        | Bullig  | 7    | Klein      |
 | 3        | Schwabbelig  | 8    | Statuenhaft|
 | 4        | Schlaksig   | 9    | Kräftig     |
 | 5        | Robust  | 10   | Groß  |
@@ -255,7 +255,7 @@ Wenn du etwas möchtest, das näher an den traditionellen Klassen liegt, sieh di
 |  |         |      |           |
 | ---- | ------- | ---- | --------- |
 | 1   | Glatze   | 6    | Lang     |
-| 2   | Geflochten| 7  | Luxuriös |
+| 2   | Geflochten| 7  | Üppig |
 | 3   | Lockig  | 8   | Fettig      |
 | 4   | Verfilzt | 9   | Gewellt   |
 | 5   | Kraus | 10  | Dünn      |
@@ -330,13 +330,13 @@ Wenn du etwas möchtest, das näher an den traditionellen Klassen liegt, sieh di
 | | | | |
 | :---: | :--------: | :-------: | :---: |
 | 1-3 | 4-14 | 15-19 | 20 |
-| Keine | Brigantine | Kettenhemd | Platte |
+| Nichts | Brigantine | Kettenhemd | Platte |
 
 #### Helme & Schilde
 | | | | |
 | :---------------: | :----: | :----: | :-------------: |
 | 1-13 | 14-16 | 17-19 | 20 |
-| Kein | Helm | Schild | Helm & Schild |
+| Nichts | Helm | Schild | Helm & Schild |
   
 #### Waffen
 | | | | |
@@ -347,9 +347,9 @@ Wenn du etwas möchtest, das näher an den traditionellen Klassen liegt, sieh di
 #### Expeditionsausrüstung
 | | | | | | | | |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1 | Schwimmhilfe | 6 | Lampenöl | 11 | Handschellen | 16 | Seil (25ft [8m) |
+| 1 | Fischblase | 6 | Lampenöl | 11 | Handschellen | 16 | Seil (25ft [8m) |
 | 2 | Gegengift | 7 | Enterhaken | 12 | Pickel | 17 | Schutzzeichen |
-| 3 | Wagen (+4 Plätze, sperrig) | 8 | Großer Sack | 13 | Stange (10ft [3m]) | 18 | Fernrohr |
+| 3 | Karren (+4 Plätze, sperrig) | 8 | Großer Sack | 13 | Stange (10ft [3m]) | 18 | Fernrohr |
 | 4 | Kette (10ft [3m]) | 9 | Große Falle | 14 | Flaschenzug | 19 | Pulverfass |
 | 5 | Wünschelrute | 10 | Dietriche | 15 | Abwehrmittel | 20 | Eisenhut (Gift) |
   
@@ -437,7 +437,7 @@ Tabelle muss später an die folgende Liste angepasst werden.
 #### Ausrüstung & Werkzeuge
 | | | | |
 |---------------------------------------------|----------------|-------------------|----------|
-|Schwimmhilfe |5 |Große Falle |20 |
+|Fischblase |5 |Große Falle |20 |
 |Blasebalg |10 |Großer Schwamm |5 |
 |Schlafmatte |5 |Linsen |10 |
 |Buch |50 |Lockpicks |25 |
@@ -479,14 +479,14 @@ Tabelle muss später an die folgende Liste angepasst werden.
 | Heiliges Symbol (Schützt einmal pro Tag) |
 | Umhang des Ordens |
   
-#### Scharlertane
+#### Scharlartane
 | |
 |-----------------------------------------|
 |Sichel (W6) |
 |Flickenwams (+1 Rüstung) |
 |Wünschelrute |
-|Augenstein (Fühlt wenn Süßwasser platziert.) |
-|Getragene Karte |
+|Augenstein (sieht im Süßwasser) |
+|Abgenutzte Karte |
 |Fernglas |
   
 #### Zwerge
@@ -507,7 +507,7 @@ Tabelle muss später an die folgende Liste angepasst werden.
 |Vergoldete Kleidung (1 Rüstung) |
 |Zauberbuch (Bezaubern oder Magie erkennen) |
 |Goldene Flöte |
-|Schwimmhilfe |
+|Fischblase |
   
 #### Kämpfende
 ||
@@ -575,7 +575,7 @@ Tabelle muss später an die folgende Liste angepasst werden.
 ### Attribute
 Jede der drei **Attribute** wird unter verschiedenen Umständen eingesetzt (siehe **Rettungswürfe**, unten).
 
-**Stärke (ST)**: Wird für Rettungswürfe verwendet, die körperliche Kraft erfordern, wie das Heben von Toren, Verbiegen von Stangen, Abwehren von Gift, usw.
+**Stärke (ST)**: Wird für Rettungswürfe verwendet, die körperliche Kraft erfordern, wie das Heben von Toren, Verbiegen von Stangen, Abwehren von Gift usw.
 
 **Geschicklichkeit (GE)**: Wird für Rettungswürfe verwendet, die Gewandtheit, Schnelligkeit und Reflexe erfordern, wie Ausweichen, Klettern, Schleichen, Balancieren usw.
 
@@ -595,7 +595,7 @@ Bea trifft auf eine Gruppe schwer bewaffneter Goblins, die vor einem Tunneleinga
 Einen Moment ausruhen und einen Schluck Wasser trinken stellt verlorene Lebenspunkte wieder her, macht die Gruppe aber angreifbar. Der Verlust von Attributen (siehe **kritischer Schaden**) kann in der Regel durch eine einwöchige Rast mithilfe von Heilkundigen oder einer anderen sachkundigen Quelle wiederhergestellt werden. Einige dieser Dienste sind kostenlos, während magische oder effektivere Mittel zur Wiederherstellung mit Kosten verbunden sein können.
 
 ### Bedrängnis & Erschöpfung
-Die Nichterfüllung von Bedürfnissen (wie Nahrung oder Schlaf) bringt SC in **Bedrängnis**. Das bedeutet, sie ist nicht in der Lage, ihre TP oder Attributswerte wiederherzustellen. Jede SC der ein Bedürfnis länger als einen Tag nicht befriedigt wurde, fügt ihrem Inventar eine **Erschöpfung** hinzu. Jeweils eine für jeden Tag. Jede Erschöpfung belegt einen Platz und hält bis zur Erholung an (z. B. eine ganze Nacht Ruhe an einem sicheren Ort). SC können auch durch **zaubern** oder durch Ereignisse in der Fiktion Erschöpfung erlangen.
+Die Nichterfüllung von Bedürfnissen (wie Nahrung oder Schlaf) bringt SC in **Bedrängnis**. Das bedeutet, sie ist nicht in der Lage, ihre TP oder Attributswerte wiederherzustellen. Jede SC, der ein Bedürfnis länger als einen Tag nicht befriedigt wurde, fügt ihrem Inventar eine **Erschöpfung** hinzu. Jeweils eine für jeden Tag. Jede Erschöpfung belegt einen Platz und hält bis zur Erholung an (z. B. eine ganze Nacht Ruhe an einem sicheren Ort). SC können auch durch **zaubern** oder durch Ereignisse in der Fiktion Erschöpfung erlangen.
 
 ### Rüstung
 Vor der Schadensberechnung an TP wird der Rüstungswert des Ziels vom Ergebnis der Schadenswürfe abgezogen. Schilde und ähnliche Rüstungsteile bieten einen Verteidigungsbonus (z.B. +1 **Rüstung**), aber nur solange der Gegenstand gehalten oder getragen wird. Niemand kann einen höheren Rüstungsschutz als 3 haben. Schilde, Panzerhandschuhe und Helme können je nach ihrer Verwendung zusätzliche Vorteile bieten.
@@ -635,16 +635,16 @@ Zauberbücher ziehen die Aufmerksamkeit, derer auf sich, die die arkane Macht in
 - Sie verschwinden nach einmaligem Gebrauch.
 
 ### Zaubern
-Jeder kann zaubern, indem er ein Zauberbuch in beiden Händen hält und dessen Inhalt laut vorliest. Er muss dann eine **Erschöpfung** zum Inventar hinzufügen, die einen Platz belegt. Wenn die SC genügend Zeit und Sicherheit hat, kann er die Wirkung eines Zaubers zu verstärken (z. B. mehrere Ziele treffen, seine Macht erhöhen usw.), ohne dass zusätzliche Kosten entstehen. Wenn die SC an Entzug leidet oder sich in Gefahr befinden, kann die SL von der SC einen Rettungswurf auf WK verlangen, um negative Auswirkungen des Zaubers zu vermeiden. Die Folgen eines Misserfolgs entsprechen dem beabsichtigten Effekt und können zusätzliche Erschöpfung, die Zerstörung des Zauberbuchs, Verletzungen und sogar den Tod zur Folge haben.
+Jeder kann zaubern, indem er ein Zauberbuch in beiden Händen hält und dessen Inhalt laut vorliest. Er muss dann eine **Erschöpfung** zum Inventar hinzufügen, die einen Platz belegt. Wenn die SC genügend Zeit und Sicherheit hat, kann sie die Wirkung eines Zaubers zu verstärken (z. B. mehrere Ziele treffen, seine Macht erhöhen usw.), ohne dass zusätzliche Kosten entstehen. Wenn die SC an Entzug leidet oder sich in Gefahr befinden, kann die SL von der SC einen Rettungswurf auf WK verlangen, um negative Auswirkungen des Zaubers zu vermeiden. Die Folgen eines Misserfolgs entsprechen dem beabsichtigten Effekt und können zusätzliche Erschöpfung, die Zerstörung des Zauberbuchs, Verletzungen und sogar den Tod zur Folge haben.
 
 ### Relikte
 **Relikte** sind Gegenstände, die mit einem Zauber oder einer magischen Kraft belegt sind. Sie verursachen keine **Erschöpfungen**. Relikte haben in der Regel eine begrenzte Verwendungsdauer und eine Wiederaufladebedingung. Ein paar Beispiele:
 
-**Honigring**: 3 Ladungen. Ein verrosteter Ring, der die Anwendenden auf 6“ (15cm) schrumpfen lässt. Wiederaufladung: In einen Fingerhut großen Becher mit Gelée royale legen.
+**Honigring**: 3 Ladungen. Ein verrosteter Ring, der die Anwendenden auf 6“ (15cm) schrumpfen lässt. Wiederaufladung: in einen Fingerhut großen Becher mit Gelée royale legen.
 
 **Falknerfreund**: 1 Ladung. Ein bolzenförmiger Stab, der bei den Zauberwirkenden _Hast_ bewirkt. Wiederaufladen: mit einer Armbrust abfeuern und wiederherstellen.
 
-**Stab der Stille**:1 Ladung. Dieser geschwärzte Stab setzt vorübergehend alle Magie im Umkreis von 50ft (15m) außer Kraft. Wiederaufladen: im Licht des Vollmonds baden.
+**Stab der Stille**: 1 Ladung. Dieser geschwärzte Stab setzt vorübergehend alle Magie im Umkreis von 50ft (15m) außer Kraft. Wiederaufladen: im Licht des Vollmonds baden.
 
 **Leykappe**: 1 Einsatz. Jeder, der diesen grün gefleckten Pilz zu sich nimmt, verliert eine **Erschöpfung**, muss dann aber einen WK-Rettungswurf machen, um seine süchtig machenden Eigenschaften zu vermeiden. Bei einem Fehlschlag sind die SC in **Bedrängnis** und können sich nicht konzentrieren, bis sie eine weiteren Leykappe essen können, was nur eine kurze Linderung der Sucht bedeutet.
 
@@ -683,10 +683,10 @@ Wenn mehrere Angriffe dasselbe Ziel haben, würfel alle Schadenswürfel und nimm
 ### Angriffsmodifikatoren
 Wenn ein Angriff aus einer Position der Schwäche heraus erfolgt (z.B. durch eine Deckung oder mit gefesselten Händen), ist der Angriff **beeinträchtigt**. Der Angriff erfolgt dann unabhängig vom Schadenswürfel der Waffe mit 1W4 Schaden.
 
-Erfolgt der Angriff aus einer vorteilhaften Position heraus (z.B. gegen ein hilfloses Ziel oder durch ein gewagtes Manöver), gilt der Angriff als **verstärkt**. Der Angriff erfolgt dann mit 1W12 Schaden, anstelle des normalen Schadenswürfels.
+Erfolgt der Angriff aus einer vorteilhaften Position heraus (z.B. gegen ein hilfloses Ziel oder durch ein gewagtes Manöver), gilt der Angriff als **verstärkt**. Der Angriff erfolgt dann mit 1W12 Schaden anstelle des normalen Schadenswürfels.
 
 ### Angriff mit zwei Waffen
-Bei Angriffen mit zwei Waffen gleichzeitig, würfelt man mit beiden Schadenswürfel und nimmt nur das höchste Ergebnis.
+Bei Angriffen mit zwei Waffen gleichzeitig würfelt man mit beiden Schadenswürfel und nimmt nur das höchste Ergebnis.
 
 ### Explosion  
 Angriffe mit der Eigenschaft **Explosion** wirken sich auf alle Ziele in dem angegebenen Bereich aus, wobei für alle betroffenen separat gewürfelt wird. Der Begriff „Explosion“ bezieht sich auf alles, von Explosionen über riesige zerstörende Angriffe bis hin zum Einschlag eines Meteoriten. Wenn du nicht sicher bist, wie viele Ziele betroffen sein können, wirf den entsprechenden Schadenswürfel, um eine mögliche Anzahl zu erhalten.
@@ -697,14 +697,14 @@ Schaden, der die TP eines Ziels unter Null reduziert, verringert die ST des Ziel
 Jede SC, die kritischen Schaden erleidet, kann nichts anderes tun, als kraftlos zu kriechen und um ihr Leben zu ringen. Wenn ihr geholfen wird und sie sich ausruht, wird sie sich stabilisieren. Wenn sie nicht versorgt wird, stirbt sie innerhalb einer Stunde.
 
 ### Verlust von Attributswerten
-Wenn die ST einer SC auf 0 reduziert wird, stirbt sie. Wenn sein GE Wert auf 0 sinkt, ist sie gelähmt. Wenn ihre WK auf 0 reduziert wird, ist sie im Delirium.
-Bei vollständigem Verlust von GE und WK ist die SC handlungsunfähig, bis er durch längere Ruhepausen oder sie durch außergewöhnliche Mittel geheilt wird.  
+Wenn die ST einer SC auf 0 reduziert wird, stirbt sie. Wenn ihr GE Wert auf 0 sinkt, ist sie gelähmt. Wenn ihre WK auf 0 reduziert wird, ist sie im Delirium.
+Bei vollständigem Verlust von GE und WK ist die SC handlungsunfähig, bis sie durch längere Ruhepausen oder außergewöhnliche Mittel geheilt wird.  
 
 ### Narben
 Wenn Schaden an einer SC ihre TP auf genau 0 reduziert, wird sie manchmal dauerhaft verändert. Siehe die Tabelle [**Narben**](#Narben-1) für weitere Informationen.
 
 ### Bewusstlosigkeit & Tod
-Wenn eine SC stirbt, steht es dem Spielenden frei, eine neue SC zu erstellen oder die Kontrolle über einen Mietling zu übernehmen. Dieser schließen sich sofort der Gruppe an, um die Ausfallzeit zu verkürzen.
+Wenn eine SC stirbt, steht es dem Spielenden frei, eine neue SC zu erstellen oder die Kontrolle über einen Mietling zu übernehmen. Diese schließen sich sofort der Gruppe an, um die Ausfallzeit zu verkürzen.
 
 ### Truppen
 Große Gruppen von gleichartigen Gegnern, die zusammen kämpfen, werden als eine einzige **Truppe** behandelt. Wenn eine Truppe kritischen Schaden erleidet, wird sie aufgerieben oder erheblich geschwächt. Wenn sie 0 ST erreicht, wird sie zerstört.
@@ -728,7 +728,7 @@ Wenn ein Angriff die TP einer SC auf genau 0 reduziert, hat das Folgen. Ermittle
 | 7 | Gelähmt: Du kannst dich kaum bewegen, bis du ernsthafte Hilfe bekommst und dich ausruhst. Nach der Genesung würfelst du 3W6. Wenn die Summe höher ist als deine maximalen GE, nimm das neue Ergebnis. |
 | 8 | Betäubt: Du kannst nichts hören, bis du besondere Hilfe findest. Mache trotzdem einen WK-Rettungswurf. Wenn du bestehst, erhöhe deine maximale WK um 1W4. |
 | 9 | Neustart: Ein verborgener Teil deiner Psyche ist freigelegt worden. Würfel 3W6. Wenn die Summe höher ist als deine maximale WK, nimm das neue Ergebnis. |
-| 10 | Abgetrennt: Eine Gliedmaße ist abgerissen, verkrüppelt oder unbrauchbar. Der Aufseher wird dir sagen, welches. Mache dann einen WK-Rettungswurf. Wenn du bestehst, erhöhe deine maximale WK um W6. |
+| 10 | Abgetrennt: Eine Gliedmaße ist abgerissen, verkrüppelt oder unbrauchbar. Die SL wird dir sagen, welches. Mache dann einen WK-Rettungswurf. Wenn du bestehst, erhöhe deine maximale WK um W6. |
 | 11 | Tödliche Wunde: Du bist in **Bedrängnis** und außer Gefecht gesetzt. Du stirbst in einer Stunde, wenn du nicht geheilt wirst. Wenn du wieder gesund bist, würfel 2W6. Nimm das neue Ergebnis als deine maximalen TP. |
 | 12 | Verdammt: Der Tod schien so nah, aber irgendwie hast du überlebt. Wenn dein nächster Rettungswurf gegen kritischen Schaden fehlschlägt, stirbst du auf schreckliche Weise. Wenn du überlebst, würfel 3W6. Wenn die Summe höher ist als deine maximalen TP, nimm das neue Ergebnis. |
   
@@ -741,7 +741,7 @@ Wenn ein Angriff die TP einer SC auf genau 0 reduziert, hat das Folgen. Ermittle
 4 TP, 8 ST, 14 GE, 8 WK, Speer (W6)  
 - Sie meiden den Kampf, es sei denn, sie sind im Vorteil (z. B. in der Überzahl).
 - Bewachen ihre gestohlenen Waren bis zum Tod.
-- Schätzt Zauberbücher; bereit zum Tausch.
+- Schätzen Zauberbücher; bereit zum Tausch.
 
 **Kultist**  
 12 TP, 9 ST, 12 GE, 14 WK, Leystecken (W8), ein Zauberbuch (wähle eins: _Bezaubern, Hypnotisieren, Schieben/Ziehen, Schild_)  
@@ -810,7 +810,7 @@ Die Schadenswürfel sind ungefähr gleich, obwohl bewaffnete Angriffe mindestens
 | 3    | **Gegenstand beleben**     | Belebt ein Objekt, welches nach Möglichkeiten deinen Befehlen Folge leistet.    |
 | 4    | **Anthropomorphisieren**     | Ein Tier erhält für einen Tag das Aussehen oder die Intelligenz eines Menschen.    |
 | 5    | **Magisches Auge**     | Du kannst durch einen magischen, fliegenden Augapfel sehen, der deinen Befehlen folgt.
-| 6    | **Astralgefängnis**     | Ein Objekt wird außerhalb von Raum und Zeit, in einem unzerstörbaren Kristall eingeschlossen.    |
+| 6    | **Astralgefängnis**     | Ein Objekt wird außerhalb von Raum und Zeit in einem unzerstörbaren Kristall eingeschlossen.    |
 | 7    | **Anziehung**     | Zwei Objekte ziehen sich stark magnetisch an, kommen sie sich näher als 15ft (5m).    |
 | 8    | **Geisterhafter Geräusch**     | Du erzeugst die Illusion von Geräuschen aus einer beliebigen Richtung.    |
 | 9    | **Plappern**     | Eine Kreatur muss deine Gedanken laut und deutlich wiederholen. In Pausen bleibt sie stumm.    |
@@ -843,7 +843,7 @@ Die Schadenswürfel sind ungefähr gleich, obwohl bewaffnete Angriffe mindestens
 | 35    | **Gier**     | Eine Kreatur giert danach einen sichtbaren Gegenstand deiner Wahl zu besitzen.    |
 | 36    | **Hast**     | Deine Bewegungsgeschwindigkeit wird verdreifacht.    |
 | 37    | **Hass**     | Eine Kreatur entwickelt einen tiefen Hass gegenüber einer anderen Kreatur oder Gruppe und möchte diese vernichten.    |
-| 38    | **Flüstern / Verstärke gedämpfte Geräusche**     | Du kannst schwache Geräusche deutlich hören.    |
+| 38    | **Lauschen**     | Du kannst schwache Geräusche deutlich hören.    |
 | 39    | **Schweben**     | Lasse ein Objekt, mit bis zu einem Humanoiden, 2ft (½m) reibungslos über den Boden schweben.    |
 | 40    | **Hypnose**     | Eine Kreatur wird in Trance versetzt und muss eine Ja-oder-Nein Frage wahrheitsgemäß beantworten.    |
 | 41    | **Eiskaltes Händchen**     | Von einer berührten Oberfläche breitet sich bis zu 10ft (3m) eine dicke Eisschicht aus.    |
@@ -896,7 +896,7 @@ Die Schadenswürfel sind ungefähr gleich, obwohl bewaffnete Angriffe mindestens
 | 88    | **Magiemagnet**     | Ein Objekt, das du berührst, wird zum Ziel jedes Zaubers in der Nähe.    |
 | 89    | **Dickicht**     | Ein Dickicht aus Bäumen und dichtem Gestrüpp, das bis 50ft (15m) breit ist, spießt plötzlich aus dem Boden.    |
 | 90    | **Idol beschwören**     | Eine aus Stein gehauene Statue von der Größe eines Maultiers erhebt sich aus dem Boden.    |
-| 91    | **Zeitkontrolle**     | Die Zeit in einer 50ft (15m) großen Sphere verlangsamt oder erhöht sich für 30 Sekunden um 10%.    |
+| 91    | **Zeitkontrolle**     | Die Zeit in einer 50ft (15m) großen SphäreSphere verlangsamt oder erhöht sich für 30 Sekunden um 10%.    |
 | 92    | **Wahrer Blick**     | Du siehst durch alle Illusionen in der Nähe.    |
 | 93    | **Quelle**     | Eine Meerwasserquelle entspringt vor dir.    |
 | 94    | **Trugbild**     | Du kontrollierst vollständig, was eine Kreatur sieht.    |
@@ -965,5 +965,3 @@ If an attack takes a PC’s HP exactly to 0, the player rolls on the [**Scars**]
 Damage that reduces a target’s HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
-
-
