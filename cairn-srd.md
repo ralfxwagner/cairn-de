@@ -849,106 +849,106 @@ Die Schadenswürfel sind ungefähr gleich, obwohl bewaffnete Angriffe mindestens
 
 ||||
 |----|---------------------|------------------------------------------------------------|
-| 1.   |Abdunkeln: | Die Quelle jedes natürlichen Lichts in Sichtweite wird abgedunkelt.   |
-| 2.   |Abstoßen: | Zwei Objekte in einem Umkreis von 10ft (3m) werden ähnlich Magneten stark voneinander abgestossen.   |
-| 3.   |Amöbenform: | Du verwandelst dich in eine Amöbe.   |
-| 4.   |Anthropomorphisieren: | Ein Tier erhält für einen Tag das Aussehen oder die Intelligenz eines Menschen.   |
-| 5.   |Anwesen: | Ein robustes möbliertes Anwesen erscheint für einige Stunden. Du kannst entscheiden, wem du Zutritt gewährst oder verbietest.   |
-| 6.   |Anziehung: | Zwei Objekte ziehen sich wie magnetisch an, kommen sie sich näher als 15ft (5m).   |
-| 7.   |Astralgefängnis: | Ein Objekt wird außerhalb von Raum und Zeit in einem unzerstörbaren Kristall eingeschlossen.   |
-| 8.   |Aufspüren: | Du erspürst das nächstgelegene Objekt deiner Wahl (Schlüssel, Gold, Pfeil, Krug, etc.).   |
-| 9.   |Ausspähen: | Du kannst durch die Augen einer Kreatur sehen, die du heute bereits berührt hast.   |
-| 10.   |Befehl: | Das Ziel befolgt einen einzelnen Drei-Wort-Befehl, der ihm keinen Schaden zufügt.   |
-| 11.   |Benebelt: | Eine Kreatur ist für die Dauer des Zaubers nicht mehr in der Lage, sich etwas Neues zu merken.   |
-| 12.   |Beschwichtigen: | Eine Kreatur in deiner Nähe hegt nun eine Abneigung gegen Gewalt.   |
-| 13.   |Besitz identifizieren: | Falls Besitzansprüche bestehen, erscheint über dem berührten Gegenstand der Name des Besitzers.   |
-| 14.   |Bestiengestalt: | Du verwandelst dich samt Ausrüstung und Gepäck in ein gewöhnliches Tier.   |
-| 15.   |Bezaubern: | Eine Kreatur in Sichtweite, behandelt dich wie einen Freund.   |
-| 16.   |Dickicht: | Ein Dickicht aus Bäumen und dichtem Gestrüpp sprießt plötzlich aus dem Boden. Es kann höchstens 50ft (15m) breit sein.   |
-| 17.   |Diebstahl: | Ein sichtbarer Gegenstand wird in deine Hände teleportiert.   |
-| 18.   |Dingsbums: | Eine primitive Version eines gezeichneten Werkzeugs oder Gegenstands erscheint vor dir. Es verschwindet nach kurzer Zeit wieder.   |
-| 19.   |Drahtseil: | Ein Drahtseil schießt aus deinem Arm und befestigt sich an zwei maximal 50ft (15m) voneinander entfernten Punkten.   |
-| 20.   |Eisige Berührung: | Von einer berührten Oberfläche breitet sich bis zu 10ft (3m) eine dicke Eisschicht aus.   |
-| 21.   |Elastizität: | Dein Körper kann sich bis zu 10ft (3m) dehnen.   |
-| 22.   |Elementarwand: | Eine 50ft (15m) lange und 10ft (3m) hohe Wand aus Eis oder Feuer erhebt sich aus dem Boden.   |
-| 23.   |Erdbeben: | Der Boden beginnt so stark zu beben, dass Bauwerke beschädigt werden oder einstürzten, können.   |
-| 24.   |Evolution: | Eine Kreatur entwickelt sich schlagartig weiter.   |
-| 25.   |Flüssige Luft: | Die Luft um dich herum ermöglicht es, zu schwimmen.   |
-| 26.   |Gedanken erkennen: | Du kannst die oberflächlichen Gedanken von Kreaturen in der Nähe hören.   |
-| 27.   |Gegenstand beleben: | Belebt ein Objekt, welches nach Möglichkeiten deinen Befehlen Folge leistet.   |
-| 28.   |Gegenstand bewegen: | Ein Gegenstand beliebiger Größe wird mit der Kraft einer Person zu dir gezogen oder weggeschoben.   |
-| 29.   |Geister erwecken: | Der Geist einer Leiche in der Nähe erscheint und beantwortet eine Frage.   |
-| 30.   |Geisterhaftes Geräusch: | Du erzeugst die Illusion von Geräuschen aus einer beliebigen Richtung.   |
-| 31.   |Gier: | Eine Kreatur giert danach, einen sichtbaren Gegenstand deiner Wahl zu besitzen.   |
-| 32.   |Glätten: | Jede Oberfläche im Umkreis von 30ft (10m) wird extrem rutschig.   |
-| 33.   |Grube: | Eine Grube von 10ft (3m) Breite und Tiefe öffnet sich im Boden.   |
-| 34.   |Hass: | Eine Kreatur entwickelt einen tiefen Hass gegenüber einer anderen Kreatur oder Gruppe und möchte diese vernichten.   |
-| 35.   |Hast: | Deine Bewegungsgeschwindigkeit wird verdreifacht.   |
-| 36.   |Hypnose: | Eine Kreatur wird in Trance versetzt und muss eine Ja-oder-Nein Frage wahrheitsgemäß beantworten.   |
-| 37.   |Idol beschwören: | Eine aus Stein gehauene Statue von der Größe eines Maultiers erhebt sich aus dem Boden.   |
-| 38.   |Kleber: | Überzieht ein Objekt mit extrem klebrigem Schleim.   |
-| 39.   |Klopfen: | Ein normales oder magisches Schloss öffnet sich lautstark.   |
-| 40.   |Köderblume: | Eine Blume, die den Geruch von verwesendem Fleische verströmt, sprießt aus dem Boden.   |
-| 41.   |Körpertausch: | Bei Berührung tauschst du den Körper mit einer Kreatur. Stirbt ein Körper, stirbt auch der andere.   |
-| 42.   |Lauschen: | Du kannst schwache Geräusche deutlich hören.   |
-| 43.   |Leuchtsignal: | Ein heller Energieball steigt mit Leuchtspur in den Himmel und verrät Freund und Feind deinen Standort.   |
-| 44.   |Lichtkugel: | Ein schwebendes Licht bewegt sich entsprechend deinen Befehlen.   |
-| 45.   |Magiedämpfer: | Die Effizienz aller magischen Effekte in deiner Nähe wird halbiert.   |
-| 46.   |Magie erkennen: | Du kannst magische Auren in deiner Nähe sehen o. hören.   |
-| 47.   |Magiemagnet: | Ein von dir berührtes Objekt, wird zum Ziel jedes Zaubers in der Nähe.   |
-| 48.   |Magisches Auge: | Du kannst durch einen magischen, fliegenden Augapfel sehen, der deinen Befehlen folgt.   |
-| 49.   |Magisches Zeichen: | Du kannst mit deinem Finger eine Farbe verströmen die nur du sehen kannst, selbst durch Gegenstände und über jede Entfernung hinweg.   |
-| 50.   |Maskerade: | Berührst du jemanden, erhält die Person die Stimme und das Aussehen von jemandem anderen.   |
-| 51.   |Modellieren: | Unbelebte Materialien sind in deinen Händen wie Ton.   |
-| 52.   |Murmelrausch: | Deine Taschen füllen sich alle 30 Sek. mit Murmeln auf.   |
-| 53.   |Nebelschwade: | Dichte Nebelschwaden strömen aus dir.   |
-| 54.   |Netz: | Dein Handgelenk verschießt Netze.   |
-| 55.   |Objektwerdung: | Du verwandelst dich in ein beliebiges unbelebtes Objekt, von der Größe eines großen Tischs bis hin zu einem Apfel.   |
-| 56.   |Optische Illusion: | Eine stille, unbewegliche und raumgroße Illusion deiner Wahl erscheint.   |
-| 57.   |Pflanzen beherrschen: | Pflanzen und Bäume gehorchen deinen Befehlen, und erhalten die Fähigkeit sich langsam fortzubewegen.   |
-| 58.   |Phobie: | Eine Kreatur in der Nähe fürchtet sich vor einem Gegenstand deiner Wahl.   |
-| 59.   |Plappern: | Eine Kreatur muss deine Gedanken laut und deutlich wiederholen. In Pausen bleibt sie stumm.   |
-| 60.   |Quelle: | Eine Meerwasserquelle entspringt vor dir.   |
-| 61.   |Raserei: | Eine Kreatur in deiner Nähe verfällt in Raserei.   |
-| 62.   |Rauchgestalt: | Dein Körper verwandelt sich in eine Rauchwolke.   |
-| 63.   |Röntgenblick: | Du kannst durch Wände, Schmutz, Kleidung, usw. hindurchsehen.   |
-| 64.   |Schaumkanone: | Ein Schaumschwall bricht aus deiner Hand hervor und bedeckt das Ziel.   |
-| 65.   |Schild: | Eine berührte Kreatur ist eine Minute vor nichtmagischen Angriffen geschützt.   |
-| 66.   |Schlaf: | Eine Kreatur in Sichtweite, verfällt in einen leichten Schlaf.   |
-| 67.   |Schleier: | Eine Kreatur, die du berührst, wird unsichtbar. Die Wirkung dieses Zaubers erlischt bei ihrer ersten Bewegung.   |
-| 68.   |Schnüffel: | Selbst die schwächsten Düfte kannst du noch wahrnehmen.   |
-| 69.   |Schutzkreis: | Ein silberner Kreis mit 50ft (15m) Durchmesser erscheint am Boden. Eine Spezies deiner Wahl kann ihn nicht durchschreiten.   |
-| 70.   |Schwarm: | Du kannst dich in einen Schwarm Krähen, Ratten oder Piranhas verwandeln und nur durch Explosionen verletzt werden.   |
-| 71.   |Schweben: | Lasse ein Objekt, mit bis zu einem Humanoiden, 2ft (½m) reibungslos über den Boden schweben.   |
-| 72.   |Schwerkraftverschiebung: | Du kannst für dich die Richtung der Schwerkraft verändern.   |
-| 73.   |Sortieren: | Sortiert leblose Gegenstände nach einer von dir festgelegten Kategorie.   |
-| 74.   |Spektakel: | Eine offensichtliche Illusion deiner Wahl, in der maximalen Größe eines Palastes, erscheint unter deiner Kontrolle. Sie ist voll beweglich und produziert Geräusche.   |
-| 75.   |Sphäre der Nacht: | Vor dir erscheint eine Sphäre mit 50ft (15m) Durchmesser, die den Nachthimmel zeigt.   |
-| 76.   |Spiegelbild: | Eine von dir kontrollierte Doppelgängerillusion deiner selbst erscheint.   |
-| 77.   |Spiegelgang: | Ein Spiegel wird zu einem Durchgang zu einem anderen, in den du heute geblickt hast.   |
-| 78.   |Spinnenklettern: | Du kannst wie eine Spinne auf Oberflächen klettern.   |
-| 79.   |Sprung: | Du springst einmal bis zu 10ft (3m) hoch.   |
-| 80.   |Taubheit: | Alle Kreaturen in der Nähe werden Taub.   |
-| 81.   |Telekinese: | Du kannst einen Gegenstand unter 60lbs (30kg) mental bewegen.   |
-| 82.   |Telepathie: | Zwei Kreaturen können, unabhängig von ihrer Entfernung ihre Gedanken hören.   |
-| 83.   |Teleportieren: | Ein Gegenstand oder eine Person in Sichtweite, teleportiert von einem Ort zu einem anderen in 50ft (15m) Radius.   |
-| 84.   |Tor: | Ein Portal zu einer zufälligen planaren Ebene öffnet sich.   |
-| 85.   |Tote erwecken: | Ein besonders dummes Skelett erhebt sich aus dem Boden und ist dir zu Diensten. Es kann nur einfachsten Befehlen Folge leisten.   |
-| 86.   |Trugbild: | Du hast vollständige Kontrolle über alles, was eine Kreatur sieht.   |
-| 87.   |Unkrautvernichter: | Eine drehende Klinge fliegt aus deiner Brust und zerschneidet Pflanzenmaterial, das deinen Weg blockiert. Ansonsten ist sie harmlos.   |
-| 88.   |Unsichtbare Fessel: | Zwei Objekte können nicht weiter als 10ft (3m) auseinander bewegt werden.   |
-| 89.   |Verkleiden: | Du kannst das Aussehen einer Person nach Belieben verändern, solange die Gestalt humanoid bleibt. Doppelgänger erregen Argwohn.   |
-| 90.   |Verkleinern: | Eine Kreatur wird bei Berührung auf Mäusegröße geschrumpft.   |
-| 91.   |Versatz: | Ein Objekt scheint 15ft (5m) von seiner Position versetzt zu sein.   |
-| 92.   |Verstehen: | Du beherrschst für kurze Zeit alle Sprachen.   |
-| 93.   |Wahrer Blick: | Du durchschaust alle Illusionen in der Nähe.   |
-| 94.   |Wechsel: | Zwei Kreaturen, in Sichtweite tauschen den Platz.   |
-| 95.   |Wetterkontrolle: | Du kannst die Art des Wetters verändern, es aber nicht kontrollieren.   |
-| 96.   |Wunden heilen: | | Einmal am Tag kannst du mit einer Berührung 1W4 ST heilen.   |
-| 97.   |Würfel beschwören: | Jede Sekunde kannst du einen 3ft (1m) großen Würfel aus Erde beschwören oder verbannen. Neue Würfel müssen mit dem Boden oder miteinander verbunden sein.   |
-| 98.   |Zeitkontrolle: | Die Zeit in einer 50ft (15m) großen Sphäre verlangsamt oder erhöht sich für 30 Sekunden um 10%.   |
-| 99.   |Zerlegen: | Du kannst alle Körperteile schmerzfrei und ohne Schaden, nach Belieben abtrennen und zusammensetzen.   |
-| 100.   |Zusätzlicher Arm: | Dir wächst vorübergehend ein zusätzlicher Arm.   |
+| 1  |**Abdunkeln** | Die Quelle jedes natürlichen Lichts in Sichtweite wird abgedunkelt.   |
+| 2  |**Abstoßen** | Zwei Objekte in einem Umkreis von 10ft (3m) werden ähnlich Magneten stark voneinander abgestossen.   |
+| 3  |**Amöbenform** | Du verwandelst dich in eine Amöbe.   |
+| 4  |**Anthropomorphisieren** | Ein Tier erhält für einen Tag das Aussehen oder die Intelligenz eines Menschen.   |
+| 5  |**Anwesen** | Ein robustes möbliertes Anwesen erscheint für einige Stunden. Du kannst entscheiden, wem du Zutritt gewährst oder verbietest.   |
+| 6  |**Anziehung** | Zwei Objekte ziehen sich wie magnetisch an, kommen sie sich näher als 15ft (5m).   |
+| 7  |**Astralgefängnis** | Ein Objekt wird außerhalb von Raum und Zeit in einem unzerstörbaren Kristall eingeschlossen.   |
+| 8  |**Aufspüren** | Du erspürst das nächstgelegene Objekt deiner Wahl (Schlüssel, Gold, Pfeil, Krug, etc.).   |
+| 9  |**Ausspähen** | Du kannst durch die Augen einer Kreatur sehen, die du heute bereits berührt hast.   |
+| 10  |**Befehl** | Das Ziel befolgt einen einzelnen Drei-Wort-Befehl, der ihm keinen Schaden zufügt.   |
+| 11  |**Benebelt** | Eine Kreatur ist für die Dauer des Zaubers nicht mehr in der Lage, sich etwas Neues zu merken.   |
+| 12  |**Beschwichtigen** | Eine Kreatur in deiner Nähe hegt nun eine Abneigung gegen Gewalt.   |
+| 13  |**Besitz identifizieren** | Falls Besitzansprüche bestehen, erscheint über dem berührten Gegenstand der Name des Besitzers.   |
+| 14  |**Bestiengestalt** | Du verwandelst dich samt Ausrüstung und Gepäck in ein gewöhnliches Tier.   |
+| 15  |**Bezaubern** | Eine Kreatur in Sichtweite, behandelt dich wie einen Freund.   |
+| 16  |**Dickicht** | Ein Dickicht aus Bäumen und dichtem Gestrüpp sprießt plötzlich aus dem Boden. Es kann höchstens 50ft (15m) breit sein.   |
+| 17  |**Diebstahl** | Ein sichtbarer Gegenstand wird in deine Hände teleportiert.   |
+| 18  |**Dingsbums** | Eine primitive Version eines gezeichneten Werkzeugs oder Gegenstands erscheint vor dir. Es verschwindet nach kurzer Zeit wieder.   |
+| 19  |**Drahtseil** | Ein Drahtseil schießt aus deinem Arm und befestigt sich an zwei maximal 50ft (15m) voneinander entfernten Punkten.   |
+| 20  |**Eisige Berührung** | Von einer berührten Oberfläche breitet sich bis zu 10ft (3m) eine dicke Eisschicht aus.   |
+| 21  |**Elastizität** | Dein Körper kann sich bis zu 10ft (3m) dehnen.   |
+| 22  |**Elementarwand** | Eine 50ft (15m) lange und 10ft (3m) hohe Wand aus Eis oder Feuer erhebt sich aus dem Boden.   |
+| 23  |**Erdbeben** | Der Boden beginnt so stark zu beben, dass Bauwerke beschädigt werden oder einstürzten, können.   |
+| 24  |**Evolution** | Eine Kreatur entwickelt sich schlagartig weiter.   |
+| 25  |**Flüssige Luft** | Die Luft um dich herum ermöglicht es, zu schwimmen.   |
+| 26  |**Gedanken erkennen** | Du kannst die oberflächlichen Gedanken von Kreaturen in der Nähe hören.   |
+| 27  |**Gegenstand beleben** | Belebt ein Objekt, welches nach Möglichkeiten deinen Befehlen Folge leistet.   |
+| 28  |**Gegenstand bewegen** | Ein Gegenstand beliebiger Größe wird mit der Kraft einer Person zu dir gezogen oder weggeschoben.   |
+| 29  |**Geister erwecken** | Der Geist einer Leiche in der Nähe erscheint und beantwortet eine Frage.   |
+| 30  |**Geisterhaftes Geräusch** | Du erzeugst die Illusion von Geräuschen aus einer beliebigen Richtung.   |
+| 31  |**Gier** | Eine Kreatur giert danach, einen sichtbaren Gegenstand deiner Wahl zu besitzen.   |
+| 32  |**Glätten** | Jede Oberfläche im Umkreis von 30ft (10m) wird extrem rutschig.   |
+| 33  |**Grube** | Eine Grube von 10ft (3m) Breite und Tiefe öffnet sich im Boden.   |
+| 34  |**Hass** | Eine Kreatur entwickelt einen tiefen Hass gegenüber einer anderen Kreatur oder Gruppe und möchte diese vernichten.   |
+| 35  |**Hast** | Deine Bewegungsgeschwindigkeit wird verdreifacht.   |
+| 36  |**Hypnose** | Eine Kreatur wird in Trance versetzt und muss eine Ja-oder-Nein Frage wahrheitsgemäß beantworten.   |
+| 37  |**Idol beschwören** | Eine aus Stein gehauene Statue von der Größe eines Maultiers erhebt sich aus dem Boden.   |
+| 38  |**Kleber** | Überzieht ein Objekt mit extrem klebrigem Schleim.   |
+| 39  |**Klopfen** | Ein normales oder magisches Schloss öffnet sich lautstark.   |
+| 40  |**Köderblume** | Eine Blume, die den Geruch von verwesendem Fleische verströmt, sprießt aus dem Boden.   |
+| 41  |**Körpertausch** | Bei Berührung tauschst du den Körper mit einer Kreatur. Stirbt ein Körper, stirbt auch der andere.   |
+| 42  |**Lauschen** | Du kannst schwache Geräusche deutlich hören.   |
+| 43  |**Leuchtsignal** | Ein heller Energieball steigt mit Leuchtspur in den Himmel und verrät Freund und Feind deinen Standort.   |
+| 44  |**Lichtkugel** | Ein schwebendes Licht bewegt sich entsprechend deinen Befehlen.   |
+| 45  |**Magiedämpfer** | Die Effizienz aller magischen Effekte in deiner Nähe wird halbiert.   |
+| 46  |**Magie erkennen** | Du kannst magische Auren in deiner Nähe sehen o. hören.   |
+| 47  |**Magiemagnet** | Ein von dir berührtes Objekt, wird zum Ziel jedes Zaubers in der Nähe.   |
+| 48  |**Magisches Auge** | Du kannst durch einen magischen, fliegenden Augapfel sehen, der deinen Befehlen folgt.   |
+| 49  |**Magisches Zeichen** | Du kannst mit deinem Finger eine Farbe verströmen die nur du sehen kannst, selbst durch Gegenstände und über jede Entfernung hinweg.   |
+| 50  |**Maskerade** | Berührst du jemanden, erhält die Person die Stimme und das Aussehen von jemandem anderen.   |
+| 51  |**Modellieren** | Unbelebte Materialien sind in deinen Händen wie Ton.   |
+| 52  |**Murmelrausch** | Deine Taschen füllen sich alle 30 Sek. mit Murmeln auf.   |
+| 53  |**Nebelschwade** | Dichte Nebelschwaden strömen aus dir.   |
+| 54  |**Netz** | Dein Handgelenk verschießt Netze.   |
+| 55  |**Objektwerdung** | Du verwandelst dich in ein beliebiges unbelebtes Objekt, von der Größe eines großen Tischs bis hin zu einem Apfel.   |
+| 56  |**Optische Illusion** | Eine stille, unbewegliche und raumgroße Illusion deiner Wahl erscheint.   |
+| 57  |**Pflanzen beherrschen** | Pflanzen und Bäume gehorchen deinen Befehlen, und erhalten die Fähigkeit sich langsam fortzubewegen.   |
+| 58  |**Phobie** | Eine Kreatur in der Nähe fürchtet sich vor einem Gegenstand deiner Wahl.   |
+| 59  |**Plappern** | Eine Kreatur muss deine Gedanken laut und deutlich wiederholen. In Pausen bleibt sie stumm.   |
+| 60  |**Quelle** | Eine Meerwasserquelle entspringt vor dir.   |
+| 61  |**Raserei** | Eine Kreatur in deiner Nähe verfällt in Raserei.   |
+| 62  |**Rauchgestalt** | Dein Körper verwandelt sich in eine Rauchwolke.   |
+| 63  |**Röntgenblick** | Du kannst durch Wände, Schmutz, Kleidung, usw. hindurchsehen.   |
+| 64  |**Schaumkanone** | Ein Schaumschwall bricht aus deiner Hand hervor und bedeckt das Ziel.   |
+| 65  |**Schild** | Eine berührte Kreatur ist eine Minute vor nichtmagischen Angriffen geschützt.   |
+| 66  |**Schlaf** | Eine Kreatur in Sichtweite, verfällt in einen leichten Schlaf.   |
+| 67  |**Schleier** | Eine Kreatur, die du berührst, wird unsichtbar. Die Wirkung dieses Zaubers erlischt bei ihrer ersten Bewegung.   |
+| 68  |**Schnüffel** | Selbst die schwächsten Düfte kannst du noch wahrnehmen.   |
+| 69  |**Schutzkreis** | Ein silberner Kreis mit 50ft (15m) Durchmesser erscheint am Boden. Eine Spezies deiner Wahl kann ihn nicht durchschreiten.   |
+| 70  |**Schwarm** | Du kannst dich in einen Schwarm Krähen, Ratten oder Piranhas verwandeln und nur durch Explosionen verletzt werden.   |
+| 71  |**Schweben** | Lasse ein Objekt, mit bis zu einem Humanoiden, 2ft (½m) reibungslos über den Boden schweben.   |
+| 72  |**Schwerkraftverschiebung** | Du kannst für dich die Richtung der Schwerkraft verändern.   |
+| 73  |**Sortieren** | Sortiert leblose Gegenstände nach einer von dir festgelegten Kategorie.   |
+| 74  |**Spektakel** | Eine offensichtliche Illusion deiner Wahl, in der maximalen Größe eines Palastes, erscheint unter deiner Kontrolle. Sie ist voll beweglich und produziert Geräusche.   |
+| 75  |**Sphäre der Nacht** | Vor dir erscheint eine Sphäre mit 50ft (15m) Durchmesser, die den Nachthimmel zeigt.   |
+| 76  |**Spiegelbild** | Eine von dir kontrollierte Doppelgängerillusion deiner selbst erscheint.   |
+| 77  |**Spiegelgang** | Ein Spiegel wird zu einem Durchgang zu einem anderen, in den du heute geblickt hast.   |
+| 78  |**Spinnenklettern** | Du kannst wie eine Spinne auf Oberflächen klettern.   |
+| 79  |**Sprung** | Du springst einmal bis zu 10ft (3m) hoch.   |
+| 80  |**Taubheit** | Alle Kreaturen in der Nähe werden Taub.   |
+| 81  |**Telekinese** | Du kannst einen Gegenstand unter 60lbs (30kg) mental bewegen.   |
+| 82  |**Telepathie** | Zwei Kreaturen können, unabhängig von ihrer Entfernung ihre Gedanken hören.   |
+| 83  |**Teleportieren** | Ein Gegenstand oder eine Person in Sichtweite, teleportiert von einem Ort zu einem anderen in 50ft (15m) Radius.   |
+| 84  |**Tor** | Ein Portal zu einer zufälligen planaren Ebene öffnet sich.   |
+| 85  |**Tote erwecken** | Ein besonders dummes Skelett erhebt sich aus dem Boden und ist dir zu Diensten. Es kann nur einfachsten Befehlen Folge leisten.   |
+| 86  |**Trugbild** | Du hast vollständige Kontrolle über alles, was eine Kreatur sieht.   |
+| 87  |**Unkrautvernichter** | Eine drehende Klinge fliegt aus deiner Brust und zerschneidet Pflanzenmaterial, das deinen Weg blockiert. Ansonsten ist sie harmlos.   |
+| 88  |**Unsichtbare Fessel** | Zwei Objekte können nicht weiter als 10ft (3m) auseinander bewegt werden.   |
+| 89  |**Verkleiden** | Du kannst das Aussehen einer Person nach Belieben verändern, solange die Gestalt humanoid bleibt. Doppelgänger erregen Argwohn.   |
+| 90  |**Verkleinern** | Eine Kreatur wird bei Berührung auf Mäusegröße geschrumpft.   |
+| 91  |**Versatz** | Ein Objekt scheint 15ft (5m) von seiner Position versetzt zu sein.   |
+| 92  |**Verstehen** | Du beherrschst für kurze Zeit alle Sprachen.   |
+| 93  |**Wahrer Blick** | Du durchschaust alle Illusionen in der Nähe.   |
+| 94  |**Wechsel** | Zwei Kreaturen, in Sichtweite tauschen den Platz.   |
+| 95  |**Wetterkontrolle** | Du kannst die Art des Wetters verändern, es aber nicht kontrollieren.   |
+| 96  |**Wunden heilen** | | Einmal am Tag kannst du mit einer Berührung 1W4 ST heilen.   |
+| 97  |**Würfel beschwören** | Jede Sekunde kannst du einen 3ft (1m) großen Würfel aus Erde beschwören oder verbannen. Neue Würfel müssen mit dem Boden oder miteinander verbunden sein.   |
+| 98  |**Zeitkontrolle** | Die Zeit in einer 50ft (15m) großen Sphäre verlangsamt oder erhöht sich für 30 Sekunden um 10%.   |
+| 99  |**Zerlegen** | Du kannst alle Körperteile schmerzfrei und ohne Schaden, nach Belieben abtrennen und zusammensetzen.   |
+| 100  |**Zusätzlicher Arm** | Dir wächst vorübergehend ein zusätzlicher Arm.   |
 
 [Zurück zum Index](#index)
 <p></p>
