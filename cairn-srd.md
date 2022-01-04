@@ -14,15 +14,15 @@ nav_order: 2
 Die Spielenden agieren als abgehärtete Abenteurer*innen, die einen dunklen und mysteriösen Wald erforschen, in dem es seltsame Kreaturen, versteckte Schätze und unaussprechliche Monstrositäten gibt.
 
 ## Index
-- [Übersicht](#Übersicht)
-- [Leitsätze für die Spielleitung](#Leitsätze-für-die-Spielleitung)
-- [Leitsätze für Spielende](#Leitsätze-für-Spielende)
-- [Spielcharakterfigurenerschaffung](#Spielcharakterfigurenerschaffung)
-- [Ausrüstungsliste](#Ausrüstungsliste)
-- [Regeln](#Regeln)
-- [Bestarium](#Bestiarium)
-- [100 Zauber](#100-Zauber)
-- [Regelzusammenfassung](#Regelzusammenfassung)
+- [Übersicht](#übersicht)
+- [Leitsätze für die Spielleitung](#leitsätze-für-die-spielleitung)
+- [Leitsätze für Spielende](#leitsätze-für-spielende)
+- [Spielcharakterfigurenerschaffung](#spielcharakterfigurenerschaffung)
+- [Ausrüstungsliste](#ausrüstungsliste)
+- [Regeln](#regeln)
+- [Bestarium](#bestiarium)
+- [100 Zauber](#100-zauber)
+- [Regelzusammenfassung](#regelzusammenfassung)
 
 
 ## Übersicht
@@ -944,7 +944,7 @@ Die Schadenswürfel sind ungefähr gleich, obwohl bewaffnete Angriffe mindestens
 | 93  |**Wahrer Blick** | Du durchschaust alle Illusionen in der Nähe.   |
 | 94  |**Wechsel** | Zwei Kreaturen, in Sichtweite tauschen den Platz.   |
 | 95  |**Wetterkontrolle** | Du kannst die Art des Wetters verändern, es aber nicht kontrollieren.   |
-| 96  |**Wunden heilen** | | Einmal am Tag kannst du mit einer Berührung 1W4 ST heilen.   |
+| 96  |**Wunden heilen** | Einmal am Tag kannst du mit einer Berührung 1W4 ST heilen.   |
 | 97  |**Würfel beschwören** | Jede Sekunde kannst du einen 3ft (1m) großen Würfel aus Erde beschwören oder verbannen. Neue Würfel müssen mit dem Boden oder miteinander verbunden sein.   |
 | 98  |**Zeitkontrolle** | Die Zeit in einer 50ft (15m) großen Sphäre verlangsamt oder erhöht sich für 30 Sekunden um 10%.   |
 | 99  |**Zerlegen** | Du kannst alle Körperteile schmerzfrei und ohne Schaden, nach Belieben abtrennen und zusammensetzen.   |
