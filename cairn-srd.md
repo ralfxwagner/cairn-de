@@ -380,8 +380,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | Parfüm     | 10     | Salzbeutel     | 15     | Instrument     | 20     | Gesichtsbemalung     |
 
 #### Bonusgegenstand
-
 (Würfelwurf auf der angegebenen Tabelle)
+
 | | | | |
 | :--------------: | :----------------: | :-------------: | :-------: |
 | 1-5 | 6-13 | 14-17 | 18-20 |
@@ -962,7 +962,9 @@ Um aus einer brenzligen Situation zu flüchten, sind ein erfolgreicher GE-Rettun
 
 ## Attribute
 **ST:** Kraft, Heldenmut, Widerstand, usw.
+
 **GE:** Ausweichen, Schleichen, Reaktion, usw.
+
 **WK:** Überreden, Einschüchtern, Magie, usw.
 
 ## Rettungswürfe
