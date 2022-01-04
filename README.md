@@ -16,4 +16,4 @@ Eine gedruckte Version der deutschen Version von Cairn wird balt erhältlich sei
 
 <p></p>
 
-[![Alt text](/img/cairn.svg "Click to embiggen"){:height="50%" width="50%"}](/img/cairn.svg)
+[![Alt text](/img/Cairn-DE_A5_v1-10.png "Click to embiggen"){:height="50%" width="50%"}](/img/Cairn-DE_A5_v1-10.png)
