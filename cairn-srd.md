@@ -785,7 +785,7 @@ Passe sie nach Bedarf an.
 ###### Trefferschutzpunkte:
 - 3 für durchschnittliche
 - 6 für abgehärtete Kreaturen
-- >10 für ernsthafte Bedrohungen
+- 10+ für ernsthafte Bedrohungen
 Denk daran, TP bedeutet Trefferschutzpunkte, nicht Trefferpunkte. Sie sind ein Maß für Widerstandsfähigkeit, Glück und Köpfchen ‒ nicht für Gesundheit.
 
 ###### Beschreibung:
