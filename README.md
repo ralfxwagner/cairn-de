@@ -5,14 +5,14 @@ nav_order: 1
 permalink: /
 ---
 
-Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) about exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics. It is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. The game was written by [Yochai Gal](https://newschoolrevolution.com).
+Cairn ist ein [Abenteuerspiel](http://questingblog.com/adventure-game-vs-osr) für eine Spielleitung und mindestens eine weitere spielende Person.
+Die Spielenden agieren als abgehärtete Abenteurer*innen, die einen dunklen und mysteriösen Wald erforschen, in dem es seltsame Kreaturen, versteckte Schätze und unaussprechliche Monstrositäten gibt. Die Charaktererschaffung erfolgt schnell und zufällig, ohne Klassen und basiert auf fiktiven Fortschritt und nicht auf Erfahrungspunkte oder Stufenmechanismen. Es basiert auf [Knave](https://www.drivethrurpg.com/product/250888/Knave) von Ben Milton und [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) von Chris McDowall. Das Spiel wurde von [Yochai Gal](https://newschoolrevolution.com) geschrieben.
 
-The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-The original Affinity Publisher file is also available with the downloads.
+Die PDF-Version ist kostenlos auf [Itch.io](https://cairn-de-team.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn)(englisch) erhältlich.
+Der vollständige Text steht unter der Lizenz CC-BY-SA 4.0.
+Die Originaldatei des Affinity Publishers ist ebenfalls bei den Downloads verfügbar.
 
-A print version of Cairn is now available!  
-See the [Print](/print.md) page for more.
+Eine gedruckte Version der deutschen Version von Cairn wird balt erhältlich sein!
 
 <p></p>
 
