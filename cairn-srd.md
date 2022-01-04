@@ -178,6 +178,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 
 ## Name & Hintergrund (W20)
 #### Vornamen
+
 |||||
 |------|-----------|-----------|---------|
 | 1    | Agune     | Arwel     | Aeron   |
@@ -202,6 +203,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 20   | Yslen     | Yirmeor   | Yale    |
 
 #### Nachnamen
+
 |||||||||
 |------|-----------|------|-----------|------|---------|------|----------|
 |1     |Abernathy  |6     |Crumwaller |11    |Harper   |16    |Swinney   |
@@ -211,6 +213,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 |5     |Cormick    |10    |Harkness   |15    |Sunderman|20    |Wolder    |
 
 #### Berufsfeld
+
 |||||||||
 |------|--------------|------|--------------|------|---------|------|----------------|
 | 1    | Alchemie     | 6    | Klerus       | 11   | Magie   | 16   | Gaukelei       |
@@ -222,7 +225,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 <p></p>
 
 ## Merkmale (W10)
-#### 1. Körper  
+#### 1. Körper
+
 |||||
 |--------|--------|----|----------|
 | 1     | dürr      | 6     | groß     |
@@ -231,7 +235,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 4     | robust     | 9     | statuenhaft     |
 | 5     | schlaksig     | 10     | schwabbelig     |
 
-#### 2. Haut  
+#### 2. Haut
+
 |||||
 |----|----------|----|---------|
 | 1   | rosig     | 6     | gebräunt     |
@@ -241,6 +246,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | trocken     | 10     | pockennarbig     |
 
 #### 3. Haar
+
 |||||
 |----|-------|----|---------|
 | 1   | lang     | 6     | üppig     |
@@ -250,6 +256,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | Glatze     | 10     | geflochten     |
 
 #### 4. Gesicht
+
 |||||
 |----|---------|----|--------|
 | 1   | blass     | 6     | knochig     |
@@ -259,6 +266,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | länglich     | 10     | schneidend       |
 
 #### 5. Sprache
+
 |||||
 |------|-------|----|----------|
 | 1   | heiser     | 6     | kryptisch     |
@@ -268,6 +276,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | schroff     | 10     | brummend     |  
 
 #### 6. Kleidung
+
 |||||
 |--------|-------|----|------|
 | 1     | ranzig     | 6     | fremdartig     |
@@ -277,6 +286,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | altbacken     | 10     | blutverschmiert     |
 
 #### 7. Tugend
+
 |||||
 |------|-----------|----|---------|
 | 1   | tapfer     | 6     | ehrenvoll     |
@@ -286,6 +296,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | gelassen     | 10     | ambitioniert     |
 
 #### 8. Laster
+
 |||||
 |----|----------|----|--------|
 | 1   | faul     | 6     | verbittert     |
@@ -295,6 +306,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | habgierig     | 10     | nachtragend     |
 
 #### 9. Reputation
+
 |||||
 |----------|-----------|----|---------|
 | 1   | weise     | 6     | sonderbar     |
@@ -304,6 +316,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | gefährlich     | 10     | unterhaltsam     |
 
 #### 10. Unglück
+
 |||||
 |-----------|-----------|----|-----------|
 | 1   | enterbt     | 6     | verurteilt     |
@@ -316,24 +329,28 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 
 ## Startausrüstung (W20)
 #### Rüstung
+
 | | | | |
 | :---: | :--------: | :-------: | :---: |
 | 1-5   | 6-13     | 14-17     | 18-20     |
 | Werkzeug oder Schmuckstück   | Expeditionsausrüstung     | Rüstung oder Waffe     | Zauberbuch |
 
 #### Helme & Schilde
+
 | | | | |
 | :---------------: | :----: | :----: | :-------------: |
 | 1-13 | 14-16 | 17-19 | 20 |
 | Nichts | Helm | Schild | Helm & Schild |
 
 #### Waffen
+
 | | | | |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 | 1-5 | 6-14 | 15-19 | 20 |
 | Dolch, Knüppel, Stab | Schwert, Streitkolben, Axt | Langbogen, Armbrust, Schleuder | Hellebarde, Kriegshammer, Streitaxt |
 
 #### Expeditionsausrüstung
+
 | | | | | | | | |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
 | 1   | Fernrohr     | 6     | Spitzhacke     | 11     | Handschellen     | 16     | Wünschelrute     |
@@ -343,6 +360,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | Pulverfass     | 10     | Großer Sack     | 15     | Schwimmhilfe     | 20     | Karren (+4 Pl. sperrig)     |
 
 #### Werkzeuge
+
 | | | | | | | | |
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
 | 1   | Fett     | 6     | Nägel     | 11     | Schaufel     | 16     | Metallfeile     |
@@ -352,6 +370,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | Säge     | 10     | Zangen     | 15     | Kochtöpfe     | 20     | Stundenglas     |
 
 #### Schmuckstücke
+
 | | | | | | | | |
 | ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
 | 1   | Horn     | 6     | Flasche     | 11     | Schwamm     | 16     | Signalpfeife     |
@@ -361,6 +380,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | Parfüm     | 10     | Salzbeutel     | 15     | Instrument     | 20     | Gesichtsbemalung     |
 
 #### Bonusgegenstand
+
 (Würfelwurf auf der angegebenen Tabelle)
 | | | | |
 | :--------------: | :----------------: | :-------------: | :-------: |
@@ -370,6 +390,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 <p></p>
 
 #### Zauberbücher (W100)
+
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
 | 1.   | Abdunkeln     | 26.     | Gedanken erkennen     | 51.     | Modellieren     | 76.     | Spiegelbild     |
@@ -403,6 +424,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 ## Ausrüstungsliste
 (Preise in Goldstücken)  
 #### Rüstung
+
 || |
 |--------------------------------------------------------------|-----|
 |Schild (+1 Rüstung) |10 |
@@ -413,6 +435,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 |Plattenrüstung (3 Rüstung, sperrig) |60 |
 
 #### Waffen
+
 | | |
 |--------------------------------------------------------------|-----|
 |Dolch, Knüppel, Sichel, Stab, usw. (W6 Schaden) |5 |
@@ -423,6 +446,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 |Armbrust (W8 Schaden, sperrig) |30 |
 
 #### Ausrüstung & Werkzeuge
+
 | | | | |
 |---------------------------------------------|----------------|-------------------|----------|
 | Angelrute   | 10     | Glasmurmeln     | 5     | Rationen (3 Tage)     | 10     |
@@ -452,6 +476,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 
 ## Optionale Ausrüstungspakete  
 #### Klerus
+
 | |
 | ------------------------------- |
 | Kriegshammer (W10, sperrig)   |
@@ -462,6 +487,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Ordensgewand   |
 
 #### Scharlartane
+
 | |
 |-----------------------------------------|
 | Sichel (W6)    |
@@ -472,6 +498,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Fernglas   |
 
 #### Zwerge
+
 ||
 |-----------------------------------------|
 | Dornenwurzel (W6)   |
@@ -482,6 +509,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Handbohrer   |
 
 #### Elfen
+
 ||
 |-----------------------------------------|
 | elegantes Schwert (W8)   |
@@ -492,6 +520,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Fischblase   |
 
 #### Kämpfende
+
 ||
 |---------------------------------------|
 | Glefe (W10, sperrig)   |
@@ -502,6 +531,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | einfache Kleidung   |
 
 #### Ordensangehörige
+
 ||
 |--------------------------------|
 | Zepter (W6)   |
@@ -512,6 +542,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Karren (+4 Plätze, sperrig)   |
 
 #### Adlige
+
 | |
 | -------------------------- |
 | Langschwert (W8, sperrig)   |
@@ -522,6 +553,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | feines Seil   |
 
 #### Zauberkundige
+
 ||
 |-----------------------------------------|
 | zischender Stab (W8, sperrig)   |
@@ -532,6 +564,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Leykappe (2 Stück, siehe Relikte)   |
 
 #### Diebe
+
 ||
 |-----------------------------------------|
 | zwei Dolche (W6+W6)   |
@@ -542,6 +575,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Metallfeile   |
 
 #### Waldläufer
+
 ||
 |-----------------------------------------|
 | Langbogen (W8, sperrig)   |
@@ -812,8 +846,9 @@ Die Schadenswürfel sind ungefähr gleich, obwohl bewaffnete Angriffe mindestens
 <p></p>
 
 ## 100 Zauber
-|      |                       |                                                              |
-| ---- | --------------------- | ------------------------------------------------------------ |
+
+||||
+|----|---------------------|------------------------------------------------------------|
 | 1.   |Abdunkeln: | Die Quelle jedes natürlichen Lichts in Sichtweite wird abgedunkelt.   |
 | 2.   |Abstoßen: | Zwei Objekte in einem Umkreis von 10ft (3m) werden ähnlich Magneten stark voneinander abgestossen.   |
 | 3.   |Amöbenform: | Du verwandelst dich in eine Amöbe.   |
@@ -914,7 +949,6 @@ Die Schadenswürfel sind ungefähr gleich, obwohl bewaffnete Angriffe mindestens
 | 98.   |Zeitkontrolle: | Die Zeit in einer 50ft (15m) großen Sphäre verlangsamt oder erhöht sich für 30 Sekunden um 10%.   |
 | 99.   |Zerlegen: | Du kannst alle Körperteile schmerzfrei und ohne Schaden, nach Belieben abtrennen und zusammensetzen.   |
 | 100.   |Zusätzlicher Arm: | Dir wächst vorübergehend ein zusätzlicher Arm.   |
-
 
 [Zurück zum Index](#index)
 <p></p>
