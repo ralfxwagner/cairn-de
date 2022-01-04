@@ -609,7 +609,7 @@ Bea trifft auf eine Gruppe schwer bewaffneter Goblins, die vor einem Tunneleinga
 </details>
 
 ### Heilung
-Einen Moment ausruhen und einen Schluck Wasser trinken stellt verlorene TP wieder her, macht die Gruppe aber angreifbar. Der Verlust von Attributen (siehe [kritischer Schaden](#kritischer-Schaden) kann in der Regel durch eine einwöchige Rast mit Hilfe von Heilkundigen oder einer anderen sachkundigen Unterstützung wiederhergestellt werden. Einige dieser Dienste sind
+Einen Moment ausruhen und einen Schluck Wasser trinken stellt verlorene TP wieder her, macht die Gruppe aber angreifbar. Der Verlust von Attributen (siehe [kritischer Schaden](#kritischer-schaden) kann in der Regel durch eine einwöchige Rast mit Hilfe von Heilkundigen oder einer anderen sachkundigen Unterstützung wiederhergestellt werden. Einige dieser Dienste sind
 kostenlos, während magische oder effektivere Mittel zur Wiederherstellung mit Kosten verbunden sein können.
 
 ### Bedrängnis & Erschöpfung
