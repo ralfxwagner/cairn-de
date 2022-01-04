@@ -145,7 +145,7 @@ Schließlich würfelst du für das Alter (2W20+10).
 #### Attributswerte
 SC haben nur drei Attribute: **Stärke (ST)**, **Geschicklichkeit (GE)** und **Willenskraft (WK)**. Bei der Erstellung einer SC würfeln die Spielenden in Reihenfolge 3W6 für jeden der Attributswerte der SC. Anschließend dürfen zwei beliebige Werte vertauscht werden.
 
-<details markdown=“block“>
+<details markdown="block">
   <summary>
 Erweitern für Beispiel
  </summary>
@@ -178,28 +178,28 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 
 ## Name & Hintergrund (W20)
 #### Vornamen
- |||||
+|||||
 |------|-------------|-----------|-----------|
-| 1     | Agune     | Arwel     | Aeron     | 
-| 2     | Beatrice     | Bevan     | Anhun     | 
-| 3     | Breagan     | Boroth     | Avalon     | 
-| 4     | Bronwyn     | Borrid     | Bera     | 
-| 5     | Cannora     | Breagle     | Bevan     | 
-| 6     | Drelil     | Breglor     | Cayne     | 
-| 7     | Elgile     | Canhoreal     | Dwyryd     | 
-| 8     | Esme     | Emrys     | Eilir     | 
-| 9     | Griya     | Ethex     | Emlyn     | 
-| 10   | Henaine     | Gringle     | Glyn     | 
-| 11   | Lirann     | Grinwit     | Hafgan     | 
-| 12   | Lirathil     | Gruwid     | Kendal     | 
-| 13   | Lisabeth     | Gruwth     | Luan     | 
-| 14   | Moralil     | Gwestin     | Mael     | 
-| 15   | Morgwen     | Mannog     | Morgan     | 
-| 16   | Sybil     | Melnax     | Mostyn     | 
-| 17   | Theune     | Orthax     | Tirion     | 
-| 18   | Wenain     | Triunein     | Von     | 
-| 19   | Ygwal     | Wenlan     | Winnie     | 
-| 20   | Yslen     | Yirmeor     | Yale     | 
+| 1     | Agune     | Arwel     | Aeron     |
+| 2     | Beatrice     | Bevan     | Anhun     |
+| 3     | Breagan     | Boroth     | Avalon     |
+| 4     | Bronwyn     | Borrid     | Bera     |
+| 5     | Cannora     | Breagle     | Bevan     |
+| 6     | Drelil     | Breglor     | Cayne     |
+| 7     | Elgile     | Canhoreal     | Dwyryd     |
+| 8     | Esme     | Emrys     | Eilir     |
+| 9     | Griya     | Ethex     | Emlyn     |
+| 10   | Henaine     | Gringle     | Glyn     |
+| 11   | Lirann     | Grinwit     | Hafgan     |
+| 12   | Lirathil     | Gruwid     | Kendal     |
+| 13   | Lisabeth     | Gruwth     | Luan     |
+| 14   | Moralil     | Gwestin     | Mael     |
+| 15   | Morgwen     | Mannog     | Morgan     |
+| 16   | Sybil     | Melnax     | Mostyn     |
+| 17   | Theune     | Orthax     | Tirion     |
+| 18   | Wenain     | Triunein     | Von     |
+| 19   | Ygwal     | Wenlan     | Winnie     |
+| 20   | Yslen     | Yirmeor     | Yale     |
 
 #### Nachnamen
 |||||||||
@@ -223,8 +223,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 
 ## Merkmale (W10)
 #### 1. Körper  
-|  |          |      |            |
-| -------- | -------- | ---- | ---------- |
+|||||
+|--------|--------|----|----------|
 | 1     | dürr      | 6     | groß     |
 | 2     | kurz     | 7     | bullig     |
 | 3     | kräftig     | 8     | athletisch     |
@@ -232,8 +232,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5     | schlaksig     | 10     | schwabbelig     |
 
 #### 2. Haut  
-|  |            |      |           |
-| ---- | ---------- | ---- | --------- |
+|||||
+|----|----------|----|---------|
 | 1   | rosig     | 6     | gebräunt     |
 | 2   | weich     | 7     | tätowiert     |
 | 3   | dunkel     | 8     | glänzend     |
@@ -257,7 +257,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 3   | kantig     | 8     | deformiert     |
 | 4   | perfekt     | 9     | eingefallen     |
 | 5   | länglich     | 10     | schneidend       |
-  
+
 #### 5. Sprache
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
@@ -311,7 +311,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 3   | erpresst     | 8     | verbannt     |
 | 4   | verrufen     | 9     | verlassen     |
 | 5   | verflucht     | 10     | degradiert     |
-  
+
 <p></p>
 
 ## Startausrüstung (W20)
@@ -326,13 +326,13 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | :---------------: | :----: | :----: | :-------------: |
 | 1-13 | 14-16 | 17-19 | 20 |
 | Nichts | Helm | Schild | Helm & Schild |
-  
+
 #### Waffen
 | | | | |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 | 1-5 | 6-14 | 15-19 | 20 |
 | Dolch, Knüppel, Stab | Schwert, Streitkolben, Axt | Langbogen, Armbrust, Schleuder | Hellebarde, Kriegshammer, Streitaxt |
-  
+
 #### Expeditionsausrüstung
 | | | | | | | | |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
@@ -359,14 +359,14 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 3   | Seife     | 8     | Murmeln     | 13     | Kartenspiel     | 18     | falsche Juwelen     |
 | 4   | Spiegel     | 9     | Würfelset     | 14     | Weihrauch     | 19     | Federkiel & Tinte     |
 | 5   | Parfüm     | 10     | Salzbeutel     | 15     | Instrument     | 20     | Gesichtsbemalung     |
-  
+
 #### Bonusgegenstand
 (Würfelwurf auf der angegebenen Tabelle)
 | | | | |
 | :--------------: | :----------------: | :-------------: | :-------: |
 | 1-5 | 6-13 | 14-17 | 18-20 |
 | Werkzeug oder Schmuckstück | Expeditionsausrüstung | Rüstung oder Waffe | Zauberbuch |
-  
+
 <p></p>
 
 #### Zauberbücher (W100)
@@ -411,7 +411,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 |Brigantine (1 Rüstung, sperrig) |20 |
 |Kettenhemd (2 Rüstung, sperrig) |40 |
 |Plattenrüstung (3 Rüstung, sperrig) |60 |
-  
+
 #### Waffen
 | | |
 |--------------------------------------------------------------|-----|
@@ -421,7 +421,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 |Schleuder (W4 Schaden) |5 |
 |Bogen (W6 Schaden, sperrig) |20 |
 |Armbrust (W8 Schaden, sperrig) |30 |
-  
+
 #### Ausrüstung & Werkzeuge
 | | | | |
 |---------------------------------------------|----------------|-------------------|----------|
@@ -447,7 +447,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Gesichtsfarbe   | 10     | Nussknacker     | 2     | Maultier*² (+6 Plätze)     | 30     |
 | Glasauge   | 30     | Pinsel     | 1     | Karren* (+4 Plätze)     | 30     |
 | Glasflasche   | 15     | Quarz     | 5     | Wagen*² (+8 Plätze)     | 200     |
-  
+
 <p></p>
 
 ## Optionale Ausrüstungspakete  
@@ -460,7 +460,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | gebogene Kline (W6)   |
 | heiliges Symbol (Wirkt 1x täglich Schutzkreis)   |
 | Ordensgewand   |
-  
+
 #### Scharlartane
 | |
 |-----------------------------------------|
@@ -470,7 +470,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Augenstein (Wirkt Aufspüren in Frischwasser)   |
 | abgenutzte Karte   |
 | Fernglas   |
-  
+
 #### Zwerge
 ||
 |-----------------------------------------|
@@ -480,7 +480,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Glas voll Waldameisen   |
 | Giftpilz   |
 | Handbohrer   |
-  
+
 #### Elfen
 ||
 |-----------------------------------------|
@@ -490,7 +490,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Buch (Bezaubern o. Magie erkennen)   |
 | goldene Flöte   |
 | Fischblase   |
-  
+
 #### Kämpfende
 ||
 |---------------------------------------|
@@ -500,7 +500,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Tabakbeutel & Pfeife   |
 | Würfelset   |
 | einfache Kleidung   |
-  
+
 #### Ordensangehörige
 ||
 |--------------------------------|
@@ -520,7 +520,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Wappenrock   |
 | Handschellen   |
 | feines Seil   |
-  
+
 #### Zauberkundige
 ||
 |-----------------------------------------|
@@ -530,7 +530,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Zauberbuch (beliebiger Zauber)   |
 | Lumpenkleider (versteckte Taschen)   |
 | Leykappe (2 Stück, siehe Relikte)   |
-  
+
 #### Diebe
 ||
 |-----------------------------------------|
@@ -540,7 +540,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | Krähenfüße   |
 | Kletterhaken   |
 | Metallfeile   |
-  
+
 #### Waldläufer
 ||
 |-----------------------------------------|
@@ -553,7 +553,7 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 
 [Zurück zum Index](#index)
 <p></p>
-  
+
 ## Regeln
 ### Attribute
 Jedes der drei Attribute wird unter verschiedenen Umständen eingesetzt (siehe **Rettungswürfe**, unten).
@@ -566,7 +566,7 @@ Um negative Folgen von riskanten Entscheidungen und Umständen zu vermeiden, wer
 - Eine 1 ist immer ein Erfolg
 - 20 ist immer ein Misserfolg.
 
-<details markdown=“block“>
+<details markdown="block">
   <summary>
 Erweitern für Beispiel
  </summary>
@@ -651,7 +651,7 @@ Die SL wird die voraussichtlichen **Aktionen** der NSC oder Monster ankündigen.
 Pro **Runde** kann sich eine SC bis zu 40ft (12m) weit bewegen und eine **Aktion** ausführen. Dies kann das Wirken eines **Zaubers**, ein **Angriff**, eine zweite Bewegung oder eine andere sinnvolle **Aktion** sein.
 Jede Runde erklären die Spielenden, was sie tun, bevor gewürfelt wird. Wenn eine SC etwas Riskantes versucht, fordert die SL einen **Rettungswurf** von den betroffenen Spielenden oder NSC.
 
-<details markdown=“block“>
+<details markdown="block">
   <summary>
 Erweitern für Beispiel
  </summary>
@@ -662,7 +662,7 @@ Bea ist versehentlich in das Revier eines riesigen Waldtrolls gestolpert. Um vor
 ### Angriff & Schaden
 Bei einem Angriff wird mit dem entsprechenden Schadenswürfel der Waffe gewürfelt. Vom Ergebnis wird erst die Rüstung des Ziels abgezogen und anschließend werden die TP um den verbleibenden Wert reduziert. Unbewaffnete Angriffe richten immer 1W4 Schaden an.
 
-<details markdown=“block“>
+<details markdown="block">
   <summary>
 Erweitern für Beispiel
  </summary>
@@ -722,7 +722,7 @@ Wenn ein Angriff die TP einer SC auf genau 0 reduziert, hat das Folgen. Ermittle
 | **10.**   | **Abgetrennt**: Eine Gliedmaße ist abgerissen, verkrüppelt oder unbrauchbar. Die SL wird dir sagen, welches. Mache dann einen **WK-Rettungswurf**. Wenn du bestehst, erhöhe deine maximale WK um 1W6.   |
 | **11.**   | **Tödliche Wunde**: Du bist in **Bedrängnis** und außer Gefecht gesetzt. Du stirbst in einer Stunde, wenn du nicht geheilt wirst. Wenn du wieder gesund bist, würfle 2W6. Nimm das neue Ergebnis als deine maximalen TP.   |
 | **12.**   | **Verdammt**: Der Tod schien so nah, aber irgendwie hast du überlebt. Wenn dein nächster Rettungswurf gegen [**kritischen Schaden**](#kritischer-Schaden) fehlschlägt, stirbst du auf schreckliche Weise. Wenn du überlebst, würfle 3W6. Wenn die Summe höher ist als deine maximalen TP, nimm das neue Ergebnis.   |
-  
+
 [Zurück zum Index](#index)
 <p></p>
 
