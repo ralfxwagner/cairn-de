@@ -575,7 +575,7 @@ Bea trifft auf eine Gruppe schwer bewaffneter Goblins, die vor einem Tunneleinga
 </details>
 
 ### Heilung
-Einen Moment ausruhen und einen Schluck Wasser trinken stellt verlorene TP wieder her, macht die Gruppe aber angreifbar. Der Verlust von Attributen (siehe [kritischer Schaden](# Kritischer Schaden) kann in der Regel durch eine einwöchige Rast mit Hilfe von Heilkundigen oder einer anderen sachkundigen Unterstützung wiederhergestellt werden. Einige dieser Dienste sind
+Einen Moment ausruhen und einen Schluck Wasser trinken stellt verlorene TP wieder her, macht die Gruppe aber angreifbar. Der Verlust von Attributen (siehe [kritischer Schaden](#Kritischer Schaden) kann in der Regel durch eine einwöchige Rast mit Hilfe von Heilkundigen oder einer anderen sachkundigen Unterstützung wiederhergestellt werden. Einige dieser Dienste sind
 kostenlos, während magische oder effektivere Mittel zur Wiederherstellung mit Kosten verbunden sein können.
 
 ### Bedrängnis & Erschöpfung
@@ -598,7 +598,7 @@ ziehen:
 Feinde müssen einen Rettungswurf auf WK bestehen, um nicht zu fliehen, wenn sie erste Verluste erleiden und erneut, wenn sie die Hälfte ihrer Zahl verlieren. Einige Gruppen können die WK ihrer Anführenden anstelle ihrer eigenen verwenden. Einzelne Feinde müssen einen Rettungswurf ablegen, wenn sie auf 0 TP reduziert werden. Moral wirkt sich nicht auf SC aus.
 
 ### Mietlinge
-SC können Mietlinge zur Unterstützung anheuern. Um Mietlinge zu erschaffen, würfle 3W6 je Attribut, 1W6 für die TP und anschließend auf die Tabellen mit [**Merkmalen**](#Charaktererschaffung) zur weiteren Ausgestaltung. Zu guter Letzt wähle eine einfache Waffe (W6). Mietlinge kosten zwischen 1-3 GM pro Tag oder einen Anteil der erbeuteten Schätze.
+SC können Mietlinge zur Unterstützung anheuern. Um Mietlinge zu erschaffen, würfle 3W6 je Attribut, 1W6 für die TP und anschließend auf die Tabellen mit [**Merkmalen**](#Spielcharakterfigurenerschaffung) zur weiteren Ausgestaltung. Zu guter Letzt wähle eine einfache Waffe (W6). Mietlinge kosten zwischen 1-3 GM pro Tag oder einen Anteil der erbeuteten Schätze.
 
 ### Reichtum & Schätze
 Die gängigste Münze ist das Goldstück (GM), das 10 Silberstücken (SM) oder 100 Kupferstücken (KM) entspricht.
@@ -699,8 +699,8 @@ Wenn eine SC stirbt, steht es dem Spielenden frei, eine neue SC zu erstellen ode
 ### Truppen
 Große Gruppen von gleichartigen Gegnern, die zusammen kämpfen, werden als eine einzige Truppe behandelt. Wenn eine Truppe kritischen Schaden erleidet, wird sie aufgerieben oder erheblich geschwächt. Wenn sie 0 ST erreicht, wird sie zerstört.
 
-Angriffe gegen Truppen durch Einzelne sind **beeinträchtigt** (außer [**Explosionsschaden**](#Explosionsschaden)).
-Angriffe gegen Einzelne durch Truppen sind **verstärkt** und verursachen [**Explosionsschaden**](#Explosionsschaden).
+Angriffe gegen Truppen durch Einzelne sind **beeinträchtigt** (außer [**Explosion**](#Explosion)).
+Angriffe gegen Einzelne durch Truppen sind **verstärkt** und verursachen [**Explosion**](#Explosion).
 
 ### Rückzug
 Die Flucht aus einer brenzligen Situation erfordert immer einen erfolgreichen Rettungswurf auf GE sowie ein sicheres Fluchtziel.
@@ -710,8 +710,7 @@ Wenn ein Angriff die TP einer SC auf genau 0 reduziert, hat das Folgen. Ermittle
 
 | | |
 |------ |---|
-| **1.**   | **Dauerhafte Narbe**: Würfle 1W6; 1: Hals, 2: Hände, 3: Auge, 4: Brustkorb,   |
-| 5: Beine, 6: Ohr. Würfel 1W6. Ist das Ergebnis höher ist als deine max. TP, übernimm es.   |   |
+| **1.**   | **Dauerhafte Narbe**: Würfle 1W6; 1: Hals, 2: Hände, 3: Auge, 4: Brustkorb, 5: Beine, 6: Ohr. Würfel 1W6. Ist das Ergebnis höher ist als deine max. TP, übernimm es.   |
 | **2.**   | **Niederschmetternder Hieb**: Du bist desorientiert und durchgeschüttelt. Beschreibe, wie du dich wieder sammelst. Würfle 1W6. Wenn das Ergebnis höher ist als deine maximalen TP, nimm das neue Ergebnis.   |
 | **3.**   | **Überrollt**: Du wirst durch die Luft geschleudert und landest auf deinem Gesicht. Du bist in **Bedrängnis**, bis du dich ein paar Stunden lang ausgeruht hast. Dann würfelst du 1W6. Addiere diesen Wert zu deinen maximalen TP.   |
 | **4.**   | **Gebrochene Gliedmaßen**: Würfle 1W6; 1–2: Bein, 3–4: Arm, 5: Rippe, 6: Schädel. Nach der [**Heilung**](#Heilung) würfelst du 2W6. Ist die Summe höher ist als deine maximalen TP, nimm das neue Ergebnis.   |
