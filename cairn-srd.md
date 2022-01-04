@@ -68,30 +68,36 @@ Den Spielenden sollten Informationen zu möglichen Risiken offen und häufig ver
 - Verwende einfache „Also, A oder B?“ Fragen, wenn ihre Absichten unklar sind.
 - Arbeitet mittels dieser Gesprächsweise zusammen, um das Spiel in Bewegung zu halten.
 - Sorge dafür, dass die Handlungen der SC Spuren in der Spielwelt hinterlassen.
+
 ### Narrativer Fokus
 - Die sich entfaltende Spielerfahrung ist das, was zählt, nicht die Regelmechanismen oder die Fähigkeiten der SC. Gib den SC Trainingsgelegenheiten und eine persönliche Queste, um Weiterentwicklung und Spezialisierung zu ermöglichen.
 - Achte auf die Bedürfnisse und Wünsche deiner Spielenden und schaffe ihnen realistische Handlungsmöglichkeiten.
 - Ein Dolch an der Kehle ist tödlich, egal wie beeindruckend deine Ausbildung oder wie teuer deine Rüstung war.
+
 ### Vorbereitung
 - Die Spielwelt ist organisch, formbar und zufällig. Sie ist intuitiv verständlich und nimmt überraschende Wendungen.
 - Verwende Zufallstabellen, um Situationen zu gestalten, nicht festgelegte Geschichten oder Abläufe.
 - NSC merken sich, wie die SC reden und handeln, und ihren Einfluss auf die Welt.
 - NSC wollen nicht sterben. Gib jeder Figur ein eigenes Ziel und einen Überlebenswillen.
+
 ### Schätze
 - Ein Schatz ist charakteristisch für die Umgebung, aus der er geborgen wurde. Er erzählt eine Geschichte.
 - Schätze sind äußerst wertvoll, meist sperrig und selten über ihren Wert und das durch sie gewonnene Ansehen nützlich.
 - Relikte sind keine Schätze, obwohl sie nützlich und interessant sind.
 - Verwende Schätze als Lockmittel für exotische Orte, die von furchterregenden Widersachern beschützt werden.
+
 ### Schwierigkeitsgrad
 - Berücksichtige eher Kontext und Logik als Zahlen und Mechanismen.
 - Wenn die Spielenden etwas Unmögliches tun wollen, wird kein Wurf es ihnen ermöglichen.
 - Ist das, was die Spielenden beschreiben und wie sie die Situation für sich nutzen, sinnvoll? Lass es geschehen.
 - Rettungswürfe decken den Großteil unsicherer Situationen ab und sind meist ausreichend für riskante Aktionen.
+
 ### Informationen
 - Gib nützliche Informationen über die Spielwelt, während die SC sie erkunden.
 - Spielende brauchen nicht zu würfeln, um etwas über ihre Situation zu erfahren.
 - Sei hilfsbereit und direkt bei der Beantwortung von Fragen.
 - Reagiere ehrlich, beschreibe konsequent und lasse die Spielenden immer wissen, dass sie weitere Fragen stellen können.
+
 ### Schicksalswürfel
 - Gelegentlich wirst du dir ein Zufallselement wünschen (z.B. das Wetter, einzigartiges Figurenwissen usw.).
 - In solchen Situationen würfle 1W6. Ein Wurf von 4 oder mehr begünstigt im Allgemeinen die SC.
@@ -170,7 +176,7 @@ Alle SC beginnen mit:
 - 3W6 Goldstücke
 
 Würfle einmal auf jeder der
-Startausrüstungstabellen, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls notwendig, würfle auf der Tabelle [**Zauberbücher**](#zauberbücher)  mit einem W100 (oder würfle 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand je Ergebnis.
+Startausrüstungstabellen, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls notwendig, würfle auf der Tabelle [**Zauberbücher**](#zauberbücher-w100)  mit einem W100 (oder würfle 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand je Ergebnis.
 In der Ausrüstungsliste findest du die Werte für Rüstung, Schaden und Plätze. Kleinere Gegenstände können manchmal in einem Platz gebündelt werden.
 Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die Liste der [**optionalen Ausrüstungspakete**](#optionale-ausrüstungspakete)  an.
 
@@ -632,7 +638,7 @@ ziehen:
 Feinde müssen einen Rettungswurf auf WK bestehen, um nicht zu fliehen, wenn sie erste Verluste erleiden und erneut, wenn sie die Hälfte ihrer Zahl verlieren. Einige Gruppen können die WK ihrer Anführenden anstelle ihrer eigenen verwenden. Einzelne Feinde müssen einen Rettungswurf ablegen, wenn sie auf 0 TP reduziert werden. Moral wirkt sich nicht auf SC aus.
 
 ### Mietlinge
-SC können Mietlinge zur Unterstützung anheuern. Um Mietlinge zu erschaffen, würfle 3W6 je Attribut, 1W6 für die TP und anschließend auf die Tabellen mit [**Merkmalen**](#spielcharakterfigurenerschaffung) zur weiteren Ausgestaltung. Zu guter Letzt wähle eine einfache Waffe (W6). Mietlinge kosten zwischen 1-3 GM pro Tag oder einen Anteil der erbeuteten Schätze.
+SC können Mietlinge zur Unterstützung anheuern. Um Mietlinge zu erschaffen, würfle 3W6 je Attribut, 1W6 für die TP und anschließend auf die Tabellen mit [**Merkmalen**](#merkmale-w10) zur weiteren Ausgestaltung. Zu guter Letzt wähle eine einfache Waffe (W6). Mietlinge kosten zwischen 1-3 GM pro Tag oder einen Anteil der erbeuteten Schätze.
 
 ### Reichtum & Schätze
 Die gängigste Münze ist das Goldstück (GM), das 10 Silberstücken (SM) oder 100 Kupferstücken (KM) entspricht.
