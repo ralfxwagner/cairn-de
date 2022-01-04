@@ -20,5 +20,5 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Aux links for the upper right navigation
 aux_links:
-  "Cairn - Deutsche Ausgabe":
+  "Cairn - Deutsche Ausgabe auf Itch.io":
     - "https://cairn-de-team.itch.io/cairn"
