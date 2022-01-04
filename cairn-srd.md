@@ -179,27 +179,27 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 ## Name & Hintergrund (W20)
 #### Vornamen
 |||||
-|------|-------------|-----------|-----------|
-| 1     | Agune     | Arwel     | Aeron     |
-| 2     | Beatrice     | Bevan     | Anhun     |
-| 3     | Breagan     | Boroth     | Avalon     |
-| 4     | Bronwyn     | Borrid     | Bera     |
-| 5     | Cannora     | Breagle     | Bevan     |
-| 6     | Drelil     | Breglor     | Cayne     |
-| 7     | Elgile     | Canhoreal     | Dwyryd     |
-| 8     | Esme     | Emrys     | Eilir     |
-| 9     | Griya     | Ethex     | Emlyn     |
-| 10   | Henaine     | Gringle     | Glyn     |
-| 11   | Lirann     | Grinwit     | Hafgan     |
-| 12   | Lirathil     | Gruwid     | Kendal     |
-| 13   | Lisabeth     | Gruwth     | Luan     |
-| 14   | Moralil     | Gwestin     | Mael     |
-| 15   | Morgwen     | Mannog     | Morgan     |
-| 16   | Sybil     | Melnax     | Mostyn     |
-| 17   | Theune     | Orthax     | Tirion     |
-| 18   | Wenain     | Triunein     | Von     |
-| 19   | Ygwal     | Wenlan     | Winnie     |
-| 20   | Yslen     | Yirmeor     | Yale     |
+|------|-----------|-----------|---------|
+| 1    | Agune     | Arwel     | Aeron   |
+| 2    | Beatrice  | Bevan     | Anhun   |
+| 3    | Breagan   | Boroth    | Avalon  |
+| 4    | Bronwyn   | Borrid    | Bera    |
+| 5    | Cannora   | Breagle   | Bevan   |
+| 6    | Drelil    | Breglor   | Cayne   |
+| 7    | Elgile    | Canhoreal | Dwyryd  |
+| 8    | Esme      | Emrys     | Eilir   |
+| 9    | Griya     | Ethex     | Emlyn   |
+| 10   | Henaine   | Gringle   | Glyn    |
+| 11   | Lirann    | Grinwit   | Hafgan  |
+| 12   | Lirathil  | Gruwid    | Kendal  |
+| 13   | Lisabeth  | Gruwth    | Luan    |
+| 14   | Moralil   | Gwestin   | Mael    |
+| 15   | Morgwen   | Mannog    | Morgan  |
+| 16   | Sybil     | Melnax    | Mostyn  |
+| 17   | Theune    | Orthax    | Tirion  |
+| 18   | Wenain    | Triunein  | Von     |
+| 19   | Ygwal     | Wenlan    | Winnie  |
+| 20   | Yslen     | Yirmeor   | Yale    |
 
 #### Nachnamen
 |||||||||
