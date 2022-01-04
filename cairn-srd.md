@@ -138,8 +138,8 @@ Den Spielenden sollten Informationen zu möglichen Risiken offen und häufig ver
 ## Spielcharakterfigurenerschaffung
 
 #### Name, Hintergrund und Merkmale
-Wähle oder würfle zunächst den **Namen** und das **Berufsfeld** deiner SC aus den entsprechenden [Tabellen](#name-hintergrund-W20). Der Hintergrund einer SC gibt Auskunft über ihr mögliches Wissen und Fähigkeiten.
-Als Nächstes würfelst du für die restlichen Merkmale deiner SC (Aussehen, Sprechweise, Eigenheiten, Überzeugungen, Ruf usw.) auf den [entsprechenden Tabellen](#merkmale).
+Wähle oder würfel zunächst den **Namen** und das **Berufsfeld** deiner SC aus den entsprechenden [Tabellen](#Name-Hintergrund-W20). Der Hintergrund einer SC gibt Auskunft über ihr mögliches Wissen und Fähigkeiten.
+Als Nächstes würfelst du für die restlichen Merkmale deiner SC (Aussehen, Sprechweise, Eigenheiten, Überzeugungen, Ruf usw.) auf den [entsprechenden Tabellen](#Merkmale-W10).
 Schließlich würfelst du für das Alter (2W20+10).
 
 #### Attributswerte
@@ -170,7 +170,7 @@ Alle SC beginnen mit:
 - 3W6 Goldstücke
 
 Würfle einmal auf jeder der
-Startausrüstungstabellen, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls notwendig, würfle auf der Tabelle [**Zauberbücherr**](#Zauberbücher)  mit einem W100 (oder würfle 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand je Ergebnis.
+Startausrüstungstabellen, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls notwendig, würfle auf der Tabelle [**Zauberbücher**](#Zauberbücher)  mit einem W100 (oder würfle 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand je Ergebnis.
 In der Ausrüstungsliste findest du die Werte für Rüstung, Schaden und Plätze. Kleinere Gegenstände können manchmal in einem Platz gebündelt werden.
 Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die Liste der [**optionalen Ausrüstungspakete**](#Optionale-Ausrüstungspakete)  an.
 
