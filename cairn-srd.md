@@ -138,7 +138,7 @@ Den Spielenden sollten Informationen zu möglichen Risiken offen und häufig ver
 ## Spielcharakterfigurenerschaffung
 
 #### Name, Hintergrund und Merkmale
-Wähle oder würfel zunächst den **Namen** und das **Berufsfeld** deiner SC aus den entsprechenden [Tabellen](#Name-Hintergrund-W20). Der Hintergrund einer SC gibt Auskunft über ihr mögliches Wissen und Fähigkeiten.
+Wähle oder würfel zunächst den **Namen** und das **Berufsfeld** deiner SC aus den entsprechenden [Tabellen](#name--hintergrund-w20). Der Hintergrund einer SC gibt Auskunft über ihr mögliches Wissen und Fähigkeiten.
 Als Nächstes würfelst du für die restlichen Merkmale deiner SC (Aussehen, Sprechweise, Eigenheiten, Überzeugungen, Ruf usw.) auf den [entsprechenden Tabellen](#Merkmale-W10).
 Schließlich würfelst du für das Alter (2W20+10).
 
@@ -575,7 +575,7 @@ Bea trifft auf eine Gruppe schwer bewaffneter Goblins, die vor einem Tunneleinga
 </details>
 
 ### Heilung
-Einen Moment ausruhen und einen Schluck Wasser trinken stellt verlorene TP wieder her, macht die Gruppe aber angreifbar. Der Verlust von Attributen (siehe [kritischer Schaden](#Kritischer Schaden) kann in der Regel durch eine einwöchige Rast mit Hilfe von Heilkundigen oder einer anderen sachkundigen Unterstützung wiederhergestellt werden. Einige dieser Dienste sind
+Einen Moment ausruhen und einen Schluck Wasser trinken stellt verlorene TP wieder her, macht die Gruppe aber angreifbar. Der Verlust von Attributen (siehe [kritischer Schaden](#Kritischer-Schaden) kann in der Regel durch eine einwöchige Rast mit Hilfe von Heilkundigen oder einer anderen sachkundigen Unterstützung wiederhergestellt werden. Einige dieser Dienste sind
 kostenlos, während magische oder effektivere Mittel zur Wiederherstellung mit Kosten verbunden sein können.
 
 ### Bedrängnis & Erschöpfung
@@ -721,7 +721,7 @@ Wenn ein Angriff die TP einer SC auf genau 0 reduziert, hat das Folgen. Ermittle
 | **9.**   | **Neustart**: Ein verborgener Teil deiner Psyche ist freigelegt worden. Würfle 3W6. Wenn die Summe höher ist als deine maximale WK, nimm das neue Ergebnis.   |
 | **10.**   | **Abgetrennt**: Eine Gliedmaße ist abgerissen, verkrüppelt oder unbrauchbar. Die SL wird dir sagen, welches. Mache dann einen **WK-Rettungswurf**. Wenn du bestehst, erhöhe deine maximale WK um 1W6.   |
 | **11.**   | **Tödliche Wunde**: Du bist in **Bedrängnis** und außer Gefecht gesetzt. Du stirbst in einer Stunde, wenn du nicht geheilt wirst. Wenn du wieder gesund bist, würfle 2W6. Nimm das neue Ergebnis als deine maximalen TP.   |
-| **12.**   | **Verdammt**: Der Tod schien so nah, aber irgendwie hast du überlebt. Wenn dein nächster Rettungswurf gegen [**kritischen Schaden**](#kritischer Schaden) fehlschlägt, stirbst du auf schreckliche Weise. Wenn du überlebst, würfle 3W6. Wenn die Summe höher ist als deine maximalen TP, nimm das neue Ergebnis.   |
+| **12.**   | **Verdammt**: Der Tod schien so nah, aber irgendwie hast du überlebt. Wenn dein nächster Rettungswurf gegen [**kritischen Schaden**](#kritischer-Schaden) fehlschlägt, stirbst du auf schreckliche Weise. Wenn du überlebst, würfle 3W6. Wenn die Summe höher ist als deine maximalen TP, nimm das neue Ergebnis.   |
   
 [Zurück zum Index](#index)
 <p></p>
