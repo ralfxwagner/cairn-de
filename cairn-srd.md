@@ -17,7 +17,7 @@ Die Spielenden agieren als abgehärtete Abenteurer*innen, die einen dunklen und 
 - [Übersicht](#Übersicht)
 - [Leitsätze für die Spielleitung](#Leitsätze-für-die-Spielleitung)
 - [Leitsätze für Spielende](#Leitsätze-für-Spielende)
-- [Charaktererschaffung](#Charaktererschaffung)
+- [Spielcharakterfigurenerschaffung](#Spielcharakterfigurenerschaffung)
 - [Ausrüstungsliste](#Ausrüstungsliste)
 - [Regeln](#Regeln)
 - [Bestarium](#Bestiarium)
