@@ -139,7 +139,7 @@ Den Spielenden sollten Informationen zu möglichen Risiken offen und häufig ver
 
 #### Name, Hintergrund und Merkmale
 Wähle oder würfel zunächst den **Namen** und das **Berufsfeld** deiner SC aus den entsprechenden [Tabellen](#name--hintergrund-w20). Der Hintergrund einer SC gibt Auskunft über ihr mögliches Wissen und Fähigkeiten.
-Als Nächstes würfelst du für die restlichen Merkmale deiner SC (Aussehen, Sprechweise, Eigenheiten, Überzeugungen, Ruf usw.) auf den [entsprechenden Tabellen](#Merkmale-W10).
+Als Nächstes würfelst du für die restlichen Merkmale deiner SC (Aussehen, Sprechweise, Eigenheiten, Überzeugungen, Ruf usw.) auf den [entsprechenden Tabellen](#merkmale-w10).
 Schließlich würfelst du für das Alter (2W20+10).
 
 #### Attributswerte
@@ -153,7 +153,7 @@ Ines würfelt für die ST ihrer Spielfigur und erhält eine 2, eine 4 und eine 6
 </details>
 
 #### Trefferschutzpunkte  
-Würfel 1W6, um die anfänglichen **Trefferschutzpunkte (TP)** deiner SC zu bestimmen, die ihre Fähigkeit widerspiegelt, Schaden im Kampf zu vermeiden. Die TP geben weder die Gesundheit noch die Stärke einer SC an, noch verliert sie diese für längere Zeit (siehe [**Heilung**](#Heilung)). Wenn ein Angriff die TP einer SC auf genau 0 bringt, muss auf der Tabelle [**Verletzungen**](#Verletzungen) die Folge ermittelt werden.
+Würfel 1W6, um die anfänglichen **Trefferschutzpunkte (TP)** deiner SC zu bestimmen, die ihre Fähigkeit widerspiegelt, Schaden im Kampf zu vermeiden. Die TP geben weder die Gesundheit noch die Stärke einer SC an, noch verliert sie diese für längere Zeit (siehe [**Heilung**](#heilung)). Wenn ein Angriff die TP einer SC auf genau 0 bringt, muss auf der Tabelle [**Verletzungen**](#verletzungen) die Folge ermittelt werden.
 
 #### Inventar
 SC haben insgesamt zehn ‘’Inventarplätze’’. Einen Rucksack mit sechs Plätzen, einen Platz für jede Hand und zwei Plätze für den Oberkörper (z. B. für den Gürtel, die Brust oder den Kopf).
@@ -170,9 +170,9 @@ Alle SC beginnen mit:
 - 3W6 Goldstücke
 
 Würfle einmal auf jeder der
-Startausrüstungstabellen, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls notwendig, würfle auf der Tabelle [**Zauberbücher**](#Zauberbücher)  mit einem W100 (oder würfle 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand je Ergebnis.
+Startausrüstungstabellen, um die Rüstung, Waffen, Werkzeuge und Ausrüstung deiner SC zu bestimmen. Falls notwendig, würfle auf der Tabelle [**Zauberbücher**](#zauberbücher)  mit einem W100 (oder würfle 2W10, wobei ein Würfel die Einerstelle und der andere die Zehnerstelle bestimmt). Wähle nur einen Gegenstand je Ergebnis.
 In der Ausrüstungsliste findest du die Werte für Rüstung, Schaden und Plätze. Kleinere Gegenstände können manchmal in einem Platz gebündelt werden.
-Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die Liste der [**optionalen Ausrüstungspakete**](#Optionale-Ausrüstungspakete)  an.
+Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die Liste der [**optionalen Ausrüstungspakete**](#optionale-ausrüstungspakete)  an.
 
 <p></p>
 
@@ -609,7 +609,7 @@ Bea trifft auf eine Gruppe schwer bewaffneter Goblins, die vor einem Tunneleinga
 </details>
 
 ### Heilung
-Einen Moment ausruhen und einen Schluck Wasser trinken stellt verlorene TP wieder her, macht die Gruppe aber angreifbar. Der Verlust von Attributen (siehe [kritischer Schaden](#Kritischer-Schaden) kann in der Regel durch eine einwöchige Rast mit Hilfe von Heilkundigen oder einer anderen sachkundigen Unterstützung wiederhergestellt werden. Einige dieser Dienste sind
+Einen Moment ausruhen und einen Schluck Wasser trinken stellt verlorene TP wieder her, macht die Gruppe aber angreifbar. Der Verlust von Attributen (siehe [kritischer Schaden](#kritischer-Schaden) kann in der Regel durch eine einwöchige Rast mit Hilfe von Heilkundigen oder einer anderen sachkundigen Unterstützung wiederhergestellt werden. Einige dieser Dienste sind
 kostenlos, während magische oder effektivere Mittel zur Wiederherstellung mit Kosten verbunden sein können.
 
 ### Bedrängnis & Erschöpfung
@@ -632,7 +632,7 @@ ziehen:
 Feinde müssen einen Rettungswurf auf WK bestehen, um nicht zu fliehen, wenn sie erste Verluste erleiden und erneut, wenn sie die Hälfte ihrer Zahl verlieren. Einige Gruppen können die WK ihrer Anführenden anstelle ihrer eigenen verwenden. Einzelne Feinde müssen einen Rettungswurf ablegen, wenn sie auf 0 TP reduziert werden. Moral wirkt sich nicht auf SC aus.
 
 ### Mietlinge
-SC können Mietlinge zur Unterstützung anheuern. Um Mietlinge zu erschaffen, würfle 3W6 je Attribut, 1W6 für die TP und anschließend auf die Tabellen mit [**Merkmalen**](#Spielcharakterfigurenerschaffung) zur weiteren Ausgestaltung. Zu guter Letzt wähle eine einfache Waffe (W6). Mietlinge kosten zwischen 1-3 GM pro Tag oder einen Anteil der erbeuteten Schätze.
+SC können Mietlinge zur Unterstützung anheuern. Um Mietlinge zu erschaffen, würfle 3W6 je Attribut, 1W6 für die TP und anschließend auf die Tabellen mit [**Merkmalen**](#spielcharakterfigurenerschaffung) zur weiteren Ausgestaltung. Zu guter Letzt wähle eine einfache Waffe (W6). Mietlinge kosten zwischen 1-3 GM pro Tag oder einen Anteil der erbeuteten Schätze.
 
 ### Reichtum & Schätze
 Die gängigste Münze ist das Goldstück (GM), das 10 Silberstücken (SM) oder 100 Kupferstücken (KM) entspricht.
@@ -725,7 +725,7 @@ Wird die ST einer SC auf 0 reduziert, stirbt sie. Wenn ihr GE Wert auf 0 sinkt, 
 Bei vollständigem Verlust von GE und WK ist die SC handlungsunfähig, bis sie durch längere Ruhepausen oder außergewöhnliche Mittel geheilt wird.
 
 ### Verletzungen
-Wenn Schaden an einer SC ihre TP auf genau 0 reduziert, wird sie manchmal dauerhaft verändert. Siehe die Tabelle [**Verletzungen**](#Verletzungen-1)  für weitere Informationen.
+Wenn Schaden an einer SC ihre TP auf genau 0 reduziert, wird sie manchmal dauerhaft verändert. Siehe die Tabelle [**Verletzungen**](#verletzungen-1)  für weitere Informationen.
 
 ### Bewusstlosigkeit & Tod
 Wenn eine SC stirbt, steht es dem Spielenden frei, eine neue SC zu erstellen oder die Kontrolle über einen Mietling zu übernehmen. Diese schließen sich sofort der Gruppe an, um die Ausfallzeit zu verkürzen.
@@ -733,8 +733,8 @@ Wenn eine SC stirbt, steht es dem Spielenden frei, eine neue SC zu erstellen ode
 ### Truppen
 Große Gruppen von gleichartigen Gegnern, die zusammen kämpfen, werden als eine einzige Truppe behandelt. Wenn eine Truppe kritischen Schaden erleidet, wird sie aufgerieben oder erheblich geschwächt. Wenn sie 0 ST erreicht, wird sie zerstört.
 
-Angriffe gegen Truppen durch Einzelne sind **beeinträchtigt** (außer [**Explosion**](#Explosion)).
-Angriffe gegen Einzelne durch Truppen sind **verstärkt** und verursachen [**Explosion**](#Explosion).
+Angriffe gegen Truppen durch Einzelne sind **beeinträchtigt** (außer [**Explosion**](#explosion)).
+Angriffe gegen Einzelne durch Truppen sind **verstärkt** und verursachen [**Explosion**](#explosion).
 
 ### Rückzug
 Die Flucht aus einer brenzligen Situation erfordert immer einen erfolgreichen Rettungswurf auf GE sowie ein sicheres Fluchtziel.
@@ -747,7 +747,7 @@ Wenn ein Angriff die TP einer SC auf genau 0 reduziert, hat das Folgen. Ermittle
 | **1.**   | **Dauerhafte Narbe**: Würfle 1W6; 1: Hals, 2: Hände, 3: Auge, 4: Brustkorb, 5: Beine, 6: Ohr. Würfel 1W6. Ist das Ergebnis höher ist als deine max. TP, übernimm es.   |
 | **2.**   | **Niederschmetternder Hieb**: Du bist desorientiert und durchgeschüttelt. Beschreibe, wie du dich wieder sammelst. Würfle 1W6. Wenn das Ergebnis höher ist als deine maximalen TP, nimm das neue Ergebnis.   |
 | **3.**   | **Überrollt**: Du wirst durch die Luft geschleudert und landest auf deinem Gesicht. Du bist in **Bedrängnis**, bis du dich ein paar Stunden lang ausgeruht hast. Dann würfelst du 1W6. Addiere diesen Wert zu deinen maximalen TP.   |
-| **4.**   | **Gebrochene Gliedmaßen**: Würfle 1W6; 1–2: Bein, 3–4: Arm, 5: Rippe, 6: Schädel. Nach der [**Heilung**](#Heilung) würfelst du 2W6. Ist die Summe höher ist als deine maximalen TP, nimm das neue Ergebnis.   |
+| **4.**   | **Gebrochene Gliedmaßen**: Würfle 1W6; 1–2: Bein, 3–4: Arm, 5: Rippe, 6: Schädel. Nach der [**Heilung**](#heilung) würfelst du 2W6. Ist die Summe höher ist als deine maximalen TP, nimm das neue Ergebnis.   |
 | **5.**   | **Erkrankt**: Du bist mit einer ekelhaften, unangenehmen Krankheit infiziert. Wenn du sie überwunden hast, würfle 2W6. Wenn das Ergebnis höher ist als deine maximalen TP, nimm das neue Ergebnis.   |
 | **6.**   | **Wiedererweckung durch Kopfwunde**: Würfle 1W6; 1–2: ST, 3–4: GE, 5–6: WK und anschließend 3W6. Wenn die Summe höher ist als dein Attributswert, nimm das neue Ergebnis.   |
 | **7.**   | **Gelähmt**: Du kannst dich kaum bewegen, bis du ernsthafte Hilfe bekommst und dich ausruhst. Nach der Genesung würfelst du 3W6. Wenn die Summe höher ist als deine maximalen GE, nimm das neue Ergebnis.   |
@@ -755,7 +755,7 @@ Wenn ein Angriff die TP einer SC auf genau 0 reduziert, hat das Folgen. Ermittle
 | **9.**   | **Neustart**: Ein verborgener Teil deiner Psyche ist freigelegt worden. Würfle 3W6. Wenn die Summe höher ist als deine maximale WK, nimm das neue Ergebnis.   |
 | **10.**   | **Abgetrennt**: Eine Gliedmaße ist abgerissen, verkrüppelt oder unbrauchbar. Die SL wird dir sagen, welches. Mache dann einen **WK-Rettungswurf**. Wenn du bestehst, erhöhe deine maximale WK um 1W6.   |
 | **11.**   | **Tödliche Wunde**: Du bist in **Bedrängnis** und außer Gefecht gesetzt. Du stirbst in einer Stunde, wenn du nicht geheilt wirst. Wenn du wieder gesund bist, würfle 2W6. Nimm das neue Ergebnis als deine maximalen TP.   |
-| **12.**   | **Verdammt**: Der Tod schien so nah, aber irgendwie hast du überlebt. Wenn dein nächster Rettungswurf gegen [**kritischen Schaden**](#kritischer-Schaden) fehlschlägt, stirbst du auf schreckliche Weise. Wenn du überlebst, würfle 3W6. Wenn die Summe höher ist als deine maximalen TP, nimm das neue Ergebnis.   |
+| **12.**   | **Verdammt**: Der Tod schien so nah, aber irgendwie hast du überlebt. Wenn dein nächster Rettungswurf gegen [**kritischen Schaden**](#kritischer-schaden) fehlschlägt, stirbst du auf schreckliche Weise. Wenn du überlebst, würfle 3W6. Wenn die Summe höher ist als deine maximalen TP, nimm das neue Ergebnis.   |
 
 [Zurück zum Index](#index)
 <p></p>
