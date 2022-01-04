@@ -203,21 +203,21 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 
 #### Nachnamen
 |||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
-|2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
-|3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
-|4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
-|5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
+|------|-----------|------|-----------|------|---------|------|----------|
+|1     |Abernathy  |6     |Crumwaller |11    |Harper   |16    |Swinney   |
+|2     |Addercap   |7     |Dunswallow |12    |Loomer   |17    |Thatcher  |
+|3     |Burl       |8     |Getri      |13    |Malksmilk|18    |Tolmen    |
+|4     |Candlewick |9     |Glass      |14    |Smythe   |19    |Weaver    |
+|5     |Cormick    |10    |Harkness   |15    |Sunderman|20    |Wolder    |
 
 #### Berufsfeld
 |||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-| 1     | Alchemie     | 6     | Klerus     | 11     | Magie     | 16     | Gaukelei     |
-| 2     | Schmieden     | 7     | Glücksspiel     | 12     | Militär     | 17     | Diebstahl     |
-| 3     | Einbruch     | 8     | Bestattung     | 13     | Handel     | 18     | Schmuggel     |
-| 4     | Metzgerei     | 9     | Kräuterkunde     | 14     | Bergbau     | 19     | Gesinde |
-| 5     | Schreinerei     | 10     | Jagd     | 15     | Raub     | 20     | Wildtierhütung     |
+|------|--------------|------|--------------|------|---------|------|----------------|
+| 1    | Alchemie     | 6    | Klerus       | 11   | Magie   | 16   | Gaukelei       |
+| 2    | Schmieden    | 7    | Glücksspiel  | 12   | Militär | 17   | Diebstahl      |
+| 3    | Einbruch     | 8    | Bestattung   | 13   | Handel  | 18   | Schmuggel      |
+| 4    | Metzgerei    | 9    | Kräuterkunde | 14   | Bergbau | 19   | Gesinde        |
+| 5    | Schreinerei  | 10   | Jagd         | 15   | Raub    | 20   | Wildtierhütung |
 
 <p></p>
 
