@@ -241,8 +241,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | trocken     | 10     | pockennarbig     |
 
 #### 3. Haar
-|  |         |      |           |
-| ---- | ------- | ---- | --------- |
+|||||
+|----|-------|----|---------|
 | 1   | lang     | 6     | üppig     |
 | 2   | dünn     | 7     | lockig     |
 | 3   | kraus     | 8     | verfilzt     |
@@ -250,8 +250,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | Glatze     | 10     | geflochten     |
 
 #### 4. Gesicht
-|  |           |      |          |
-| ---- | --------- | ---- | -------- |
+|||||
+|----|---------|----|--------|
 | 1   | blass     | 6     | knochig     |
 | 2   | eckig     | 7     | rattenhaft     |
 | 3   | kantig     | 8     | deformiert     |
@@ -259,8 +259,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | länglich     | 10     | schneidend       |
 
 #### 5. Sprache
-|  |         |      |            |
-| ------ | ------- | ---- | ---------- |
+|||||
+|------|-------|----|----------|
 | 1   | heiser     | 6     | kryptisch     |
 | 2   | präzise     | 7     | flüsternd     |
 | 3   | piepsig     | 8     | stotternd     |
@@ -268,8 +268,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | schroff     | 10     | brummend     |  
 
 #### 6. Kleidung
-|  |         |      |        |
-| -------- | ------- | ---- | ------ |
+|||||
+|--------|-------|----|------|
 | 1     | ranzig     | 6     | fremdartig     |
 | 2     | elegant     | 7     | traditionell     |
 | 3     | dreckig     | 8     | ausgefranst     |
@@ -277,8 +277,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | altbacken     | 10     | blutverschmiert     |
 
 #### 7. Tugend
-|  |             |      |           |
-| ------ | ----------- | ---- | --------- |
+|||||
+|------|-----------|----|---------|
 | 1   | tapfer     | 6     | ehrenvoll     |
 | 2   | gnädig     | 7     | umsichtig     |
 | 3   | gesellig     | 8     | bescheiden     |
@@ -286,8 +286,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | gelassen     | 10     | ambitioniert     |
 
 #### 8. Laster
-|  |            |      |          |
-| ---- | ---------- | ---- | -------- |
+|||||
+|----|----------|----|--------|
 | 1   | faul     | 6     | verbittert     |
 | 2   | feige     | 7     | hinterlistig     |
 | 3   | nervös     | 8     | eingebildet     |
@@ -295,8 +295,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | habgierig     | 10     | nachtragend     |
 
 #### 9. Reputation
-|  |             |      |           |
-| ---------- | ----------- | ---- | --------- |
+|||||
+|----------|-----------|----|---------|
 | 1   | weise     | 6     | sonderbar     |
 | 2   | ehrlich     | 7     | abstoßend     |
 | 3   | faul     | 8     | respektiert     |
@@ -304,8 +304,8 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 | 5   | gefährlich     | 10     | unterhaltsam     |
 
 #### 10. Unglück
-|  |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
+|||||
+|-----------|-----------|----|-----------|
 | 1   | enterbt     | 6     | verurteilt     |
 | 2   | süchtig     | 7     | betrogen     |
 | 3   | erpresst     | 8     | verbannt     |
