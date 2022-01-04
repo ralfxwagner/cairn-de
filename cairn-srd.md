@@ -1003,5 +1003,7 @@ Wenn ein Angriff die TP einer SC genau auf 0 bringt, hat das einen Wurf auf die 
 Schaden, der die TP eines Ziels unter 0 reduziert, verringert dessen ST um den Restwert. Das Ziel muss dann einen ST-Rettungswurf machen, um kritischen Schaden zu vermeiden. Scheitert der Wurf, wird das Ziel aus dem Kampf genommen und muss ohne Behandlung sterben.
 
 ST 0 bedeutet Tod
+
 GE 0 bedeutet Lähmung
-WK 0 bedeutet Delirium.
+
+WK 0 bedeutet Delirium
