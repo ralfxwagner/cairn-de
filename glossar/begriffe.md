@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Zauber
-parent: Begriffe
+title: Begriffe
+parent: Glossar
 nav_order: 1
 ---
 
