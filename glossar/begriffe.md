@@ -47,8 +47,8 @@ nav_order: 1
 |||
 |------------------------|------------------------|
 | Gold piece (GP)     | Goldstück (GM)     |
-| silver piece (SP)     | Silberstück (SM)     |
-| copper piece (CP)     | Kupferstück (KM)     |
+| Silver piece (SP)     | Silberstück (SM)     |
+| Copper piece (CP)     | Kupferstück (KM)     |
 
 [Zurück zum Index](#index)
 <p></p>
