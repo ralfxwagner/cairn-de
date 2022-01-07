@@ -37,8 +37,8 @@ nav_order: 1
 |||
 |------------------------|------------------------|
 | Warden     | Spielleitung (SL)     |
-| NPC     | Nichtspielcharakterfiguren (NSC)     |
-| PC     | Spielcharakterfigur (SC)     |
+| Non-player character (NPC)     | Nichtspielcharakterfiguren (NSC)     |
+| Player character (PC)     | Spielcharakterfigur (SC)     |
 
 [Zurück zum Index](#index)
 
@@ -46,9 +46,9 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| GP     | Goldstück (GM)     |
+| Gold piece (GP)     | Goldstück (GM)     |
 | silver piece (SP)     | Silberstück (SM)     |
-| copper pieces (CP)     | Kupferstück (KM)     |
+| copper piece (CP)     | Kupferstück (KM)     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -88,11 +88,11 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| ability score loss     | Attributsverlust     |
-| ability scores     | Attributswerte     |
-| ability, abilities     | Attribut, Attribute     |
-| actions     | Aktionen     |
-| attack modifier     | Angriffsmodifikator     |
+| Ability score loss     | Attributsverlust     |
+| Ability score     | Attributswert     |
+| Ability     | Attribut     |
+| Action     | Aktion     |
+| Attack modifier     | Angriffsmodifikator     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -101,7 +101,7 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| bulky     | sperrig     |
+| Bulky     | Sperrig     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -110,9 +110,9 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| casting spells     | zaubern     |
-| character trait     | Merkmale     |
-| critical damage     | kritischer Schaden     |
+| Casting a spell     | zaubern     |
+| Character trait     | Merkmale     |
+| Critical damage     | kritischer Schaden     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -121,11 +121,11 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| deprivation     | bedrängt     |
-| deprived     | in Bedrängnis     |
-| detachment     | Truppen     |
-| detect magic     | Magie entdecken     |
-| dual weapon     | Angriff mit zwei Waffen     |
+| Deprivation     | bedrängt     |
+| Deprived     | in Bedrängnis     |
+| Detachment     | Truppen     |
+| Detect magic     | Magie entdecken     |
+| Dual weapon     | Angriff mit zwei Waffen     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -134,8 +134,8 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| enhanced     | verstärkt     |
-| equipment     | Ausrüstung     |
+| Enhanced     | Verstärkt     |
+| Equipment     | Ausrüstung     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -144,7 +144,7 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| fatigue     | Erschöpfung     |
+| Fatigue     | Erschöpfung     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -153,7 +153,7 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| gear     | Ausrüstung     |
+| Gear     | Ausrüstung     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -162,8 +162,8 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| healing     | Heilen     |
-| hireling     | Mietling     |
+| Healing     | Heilen     |
+| Hireling     | Mietling     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -172,7 +172,7 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| imparied     | beeinträchtigt     |
+| Impaired     | Beeinträchtigt     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -181,7 +181,7 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| morale     | Moral     |
+| Morale     | Moral     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -190,7 +190,7 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| player     | Spielende     |
+| Player     | Spielende     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -199,9 +199,8 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| retreat     | Rückzug     |
-| round     | Runde     |
-| Runden     | Runden     |
+| Retreat     | Rückzug     |
+| Round     | Runde     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -210,11 +209,11 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| save/saving roll     | Rettungswurf     |
-| sleep     | Schlaf     |
-| slot     | (Inventar)platz     |
-| spellbook     | Zauberbuch     |
-| staff     | Stecken     |
+| Save/saving roll     | Rettungswurf     |
+| Sleep     | Schlaf     |
+| Slot     | (Inventar)platz     |
+| Spellbook     | Zauberbuch     |
+| Staff     | Stecken     |
 
 [Zurück zum Index](#index)
 <p></p>
@@ -223,7 +222,7 @@ nav_order: 1
 
 |||
 |------------------------|------------------------|
-| turns     | Zug     |
+| Turn     | Zug     |
 
 [Zurück zum Index](#index)
 <p></p>
