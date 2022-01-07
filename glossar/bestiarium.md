@@ -11,34 +11,34 @@ nav_order: 2
 
 |||
 |------------------------|------------------------|
-| Boggart     | Boggarts     |
+| Boggart                | Boggarts               |
 
 ## C
 
 |||
 |------------------------|------------------------|
-| Cobblehounds     | Pflasterbeißer     |
+| Cobblehounds           | Pflasterbeißer         |
 
 ## F
 
 |||
 |------------------------|------------------------|
-| Frost Elf     | Frostelfen     |
+| Frost Elf              | Frostelfen             |
 
 ## H
 
 |||
 |------------------------|------------------------|
-| Hooded Men     | Kultisten     |
+| Hooded Men             | Kultisten              |
 
 ## R
 
 |||
 |------------------------|------------------------|
-| Root Goblin     | Wurzelgoblins     |
+| Root Goblin            | Wurzelgoblins          |
 
 ## W
 
 |||
 |------------------------|------------------------|
-| Wood Troll     | Waldtrolle     |
+| Wood Troll             | Waldtrolle             |
