@@ -13,20 +13,12 @@ nav_order: 1
 - [Attribute](#attribute)
 - [Klassen](#klassen)
 - [Regelbegriffe](#regelbegriffe)
-   - [A](#a)
-   - [B](#b)
-   - [C](#c)
-   - [D](#d)
-   - [E](#e)
-   - [F](#f)
-   - [G](#g)
-   - [H](#h)
-   - [I](#i)
-   - [M](#m)
-   - [P](#p)
-   - [R](#r)
-   - [S](#s)
-   - [T](#t)
+
+||||||
+|----|----|----|----|----|
+| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) |
+| [F](#f) | [G](#g) | [H](#h) | [I](#i) | [M](#m) |
+| [P](#p) | [R](#r) | [S](#s) | [T](#t) | |
 
 [Zurück zum Index](#index)
 <p></p>
