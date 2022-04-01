@@ -11,7 +11,7 @@ nav_order: 1
 **Denkt bitte an Folgendes:**  
 - **Esther** spielt eine ehemalige **Kräutersammlerin**.
 - **Barry** spielt einen ehemaligen **Jäger**.
-- Die PCs sind auf der Suche nach einem mächtigen [**Relikt**](/cairn-srd/#Relikte), dem man Wiederherstellungskräfte nachsagt.
+- Die PCs sind auf der Suche nach einem mächtigen [**Relikt**](/cairn-srd/#relikte), dem man Wiederherstellungskräfte nachsagt.
 - Kürzlich hat die Gruppe ein Schriftstück entdeckt, auf dem der wahre Aufenthaltsort des Gegenstandes beschrieben ist, und sie haben sich auf den Weg gemacht, um ihn zu finden.
 
 **Spielleitung (SL)**: _"Du hast den größten Teil des Morgens damit verbracht, dir einen Weg durch den **Geunantwald** zu bahnen, vorbei an hängenden Lianen und hüfthohen Brombeeren. Es ist sehr leicht, sich hier im Unterholz zu verlaufen. Zu allem Überfluss wird die Sonne von den dicken Ästen völlig verdeckt."_
