@@ -227,7 +227,7 @@ Erweitern für Beispiel
  - Wenn der Geist, die Willenskraft oder die Entschlossenheit einer SC beeinträchtigt wurde, ziehe von **WK** ab. Dies ist besonders hilfreich bei magischen oder oberflächlichen Verletzungen. Ein PC, dessen Seele durch arkane Energie verbrannt wurde, muss vielleicht einen **WK-Rettungswurf** machen, um z.B. Zauberbücher zu lesen.
 
  Ein paar Überlegungen:
- - Eine Verletzung kann mehrere Facetten annehmen: [**Entzug**](/cairn-srd/#bedrangnis--erschopfung) kann zum Beispiel den ST-Verlust durch Gift begleiten. Biete auch eine mögliche Lösung zur Überwindung der Krankheit an.
+ - Eine Verletzung kann mehrere Facetten annehmen: [**Entzug**](/cairn-srd/#bedrängnis--erschöpfung) kann zum Beispiel den ST-Verlust durch Gift begleiten. Biete auch eine mögliche Lösung zur Überwindung der Krankheit an.
  - Schaden sollte als Folge des Scheiterns eines **Rettungswurfes** auftreten. Zwingen Sie die Spieler nicht, nachträglich zu **würfeln**.
  - Fiktive Verletzungen sind genauso stark wie direkte regelmechanische Schäden. Ein **GE**-Verlust wird sich auf die Reflexe und die Geschwindigkeit eines Charakters auswirken, aber ein gebrochenes Bein kann dazu führen, dass ein Charakter sich überhaupt nicht mehr bewegen kann!
 
