@@ -159,7 +159,7 @@ Ines würfelt für die ST ihrer Spielfigur und erhält eine 2, eine 4 und eine 6
 </details>
 
 #### Trefferschutzpunkte  
-Würfel 1W6, um die anfänglichen **Trefferschutzpunkte (TP)** deiner SC zu bestimmen, die ihre Fähigkeit widerspiegelt, Schaden im Kampf zu vermeiden. Die TP geben weder die Gesundheit noch die Stärke einer SC an, noch verliert sie diese für längere Zeit (siehe [**Heilung**](#heilung)). Wenn ein Angriff die TP einer SC auf genau 0 bringt, muss auf der Tabelle [**Verletzungen**](#verletzungen) die Folge ermittelt werden.
+Würfel 1W6, um die anfänglichen **Trefferschutzpunkte (TP)** deiner SC zu bestimmen, die ihre Fähigkeit widerspiegelt, Schaden im Kampf zu vermeiden. Die TP geben weder die Gesundheit noch die Stärke einer SC an, noch verliert sie diese für längere Zeit (siehe [**Heilung**](#heilung)). Wenn ein Angriff die TP einer SC auf genau 0 bringt, muss auf der Tabelle [**Verletzungen**](#verletzungen-1) die Folge ermittelt werden.
 
 #### Inventar
 SC haben insgesamt zehn ‘’Inventarplätze’’. Einen Rucksack mit sechs Plätzen, einen Platz für jede Hand und zwei Plätze für den Oberkörper (z. B. für den Gürtel, die Brust oder den Kopf).

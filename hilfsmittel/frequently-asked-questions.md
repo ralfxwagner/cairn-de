@@ -54,7 +54,7 @@ Erweitern für Beispiel
 
  **Was wäre, wenn keiner der PCs über einschlägige Erfahrungen oder Fachkenntnisse verfügt?**
  - Hätte es keine SC mit dem Hintergrund **Kräuterkunde** gegeben, hätte die SL die SCs wahrscheinlich für unwissend über die Eigenschaften der Pflanze erklärt, und (hoffentlich) würden die Spielenden versuchen, durch Fragen und Experimente mehr zu erfahren.
- - Wenn eine SC einen _tangentialen_ Hintergrund hätte (wie der **Jäger**), könnte die SL das [**Schicksal entscheiden**](/cairn-srd/#schicksalswurfel) lassen und 1W6 würfeln. Je höher der Wurf, desto wahrscheinlicher ist es, dass die SC etwas Relevantes oder Nützliches weiß.
+ - Wenn eine SC einen _tangentialen_ Hintergrund hätte (wie der **Jäger**), könnte die SL das [**Schicksal entscheiden**](/cairn-srd/#schicksalswürfel) lassen und 1W6 würfeln. Je höher der Wurf, desto wahrscheinlicher ist es, dass die SC etwas Relevantes oder Nützliches weiß.
 
 </details>
 
@@ -227,7 +227,7 @@ Erweitern für Beispiel
  - Wenn der Geist, die Willenskraft oder die Entschlossenheit einer SC beeinträchtigt wurde, ziehe von **WK** ab. Dies ist besonders hilfreich bei magischen oder oberflächlichen Verletzungen. Ein PC, dessen Seele durch arkane Energie verbrannt wurde, muss vielleicht einen **WK-Rettungswurf** machen, um z.B. Zauberbücher zu lesen.
 
  Ein paar Überlegungen:
- - Eine Verletzung kann mehrere Facetten annehmen: [**Entzug**](/cairn-srd/#bedrangnis-erschopfung) kann zum Beispiel den ST-Verlust durch Gift begleiten. Biete auch eine mögliche Lösung zur Überwindung der Krankheit an.
+ - Eine Verletzung kann mehrere Facetten annehmen: [**Entzug**](/cairn-srd/#bedrangnis--erschopfung) kann zum Beispiel den ST-Verlust durch Gift begleiten. Biete auch eine mögliche Lösung zur Überwindung der Krankheit an.
  - Schaden sollte als Folge des Scheiterns eines **Rettungswurfes** auftreten. Zwingen Sie die Spieler nicht, nachträglich zu **würfeln**.
  - Fiktive Verletzungen sind genauso stark wie direkte regelmechanische Schäden. Ein **GE**-Verlust wird sich auf die Reflexe und die Geschwindigkeit eines Charakters auswirken, aber ein gebrochenes Bein kann dazu führen, dass ein Charakter sich überhaupt nicht mehr bewegen kann!
 
@@ -276,7 +276,7 @@ Erweitern für Beispiel
 </details>
 
 ## Wie steigen SCs ohne Dinge wie Stufen oder Erfahrungspunkte auf?
-In **Cairn** ist das _Wachstum_ des Charakters dem _Stufenaufstieg_ vorzuziehen. Das bedeutet, dass ein PC sich zwar _verändern_ wird, aber nicht unbedingt _besser_ wird, wenn er älter wird. Wachstum geschieht sowohl durch mechanische Mittel (wie z.B. [**Verletzungen**](/cairn-srd/#verletzungen)), als auch durch Ereignisse, die ausschließlich in der Fiktion stattfinden.
+In **Cairn** ist das _Wachstum_ des Charakters dem _Stufenaufstieg_ vorzuziehen. Das bedeutet, dass ein PC sich zwar _verändern_ wird, aber nicht unbedingt _besser_ wird, wenn er älter wird. Wachstum geschieht sowohl durch mechanische Mittel (wie z.B. [**Verletzungen**](/cairn-srd/#verletzungen-1)), als auch durch Ereignisse, die ausschließlich in der Fiktion stattfinden.
 
 **Die SL sollte bei der Vergabe von nicht-mechanischem Wachstum an SCs folgendes beachten:**
 - Wachstum sollte an eine _spezifische_ Erfahrung gebunden sein, die in der Fiktion stattfindet.
