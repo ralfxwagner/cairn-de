@@ -2,7 +2,7 @@
 layout: default
 title: Spielbeispiel
 parent: Hilfsmittel
-nav_order: 1
+nav_order: 2
 ---
 
 # Spielbeispiel
