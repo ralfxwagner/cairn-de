@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Monster
+grand_parent: Hilfsmittel
 ---
 
 # Gallert, Schwarz [Black Pudding]
