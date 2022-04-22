@@ -9,4 +9,5 @@ grand_parent: Hilfsmittel
 - Große, nachtaktive, fliegende Säugetiere die in Höhlen nisten.
 - Unbeeinflusst von Dunkelheit oder Blendeffekten, werden durch magische Stille oder ständige laute Geräusche desorientiert.
 - Nach dem Biss eines bluthaltigen Opfers werden 1W4 TP wiederhergestellt.
-*Autor: xenio*
+
+*Autor: [xenio](https://xenioinabottle.blogspot.com)*

@@ -9,4 +9,4 @@ grand_parent: Hilfsmittel
 - Schön, amoralisch und langlebig.
 - Widerstandsfähig gegen die meisten Formen der Magie.
 
-*Quelle: SRD*
+*Quelle: [SRD](/cairn-srd#bestiarium)*

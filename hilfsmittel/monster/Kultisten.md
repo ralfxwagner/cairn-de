@@ -9,4 +9,4 @@ grand_parent: Hilfsmittel
 - Die Wächter des Waldes: ein Kult, der seine Macht aus Leylinien, Runensteinen und dergleichen bezieht.
 - Kritischer Schaden: saugt einen Teil der Seele des Opfers aus (1W4 WK Schaden).
 
-*Quelle: SRD*
+*Quelle: [SRD](/cairn-srd#bestiarium)*

@@ -9,4 +9,4 @@ grand_parent: Hilfsmittel
 - Unbewegliche Konstrukte, die häufig als Wächter von großen Gräbern oder Artefakten eingesetzt werden.
 - Sie lassen sich nicht von weltlichen Überredungstechniken überrumpeln. ‒ Einem guten Knochen können sie aber nur schwer widerstehen.
 
-*Quelle: SRD*
+*Quelle: [SRD](/cairn-srd#bestiarium)*

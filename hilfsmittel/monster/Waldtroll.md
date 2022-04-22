@@ -9,4 +9,4 @@ grand_parent: Hilfsmittel
 - Können als Aktion verlorene TP wiederherstellen.
 - Kritischer Schaden: Moos und Zweige beginnen aus den Wunden des Ziels zu wachsen.
 
-*Quelle: SRD*
+*Quelle: [SRD](/cairn-srd#bestiarium)*

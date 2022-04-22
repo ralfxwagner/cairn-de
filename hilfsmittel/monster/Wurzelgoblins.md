@@ -10,4 +10,4 @@ grand_parent: Hilfsmittel
 - Bewachen ihre gestohlenen Waren bis zum Tod.
 - Schätzt Zauberbücher; bereit zum Tausch.
 
-*Quelle: SRD*
+*Quelle: [SRD](/cairn-srd#bestiarium)*
