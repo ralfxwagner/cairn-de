@@ -9,4 +9,5 @@ grand_parent: Hilfsmittel
 - 11ft (3,4m) große Bären mit weißem Fell, die in kalten Regionen leben und sich hauptsächlich von Fisch ernähren.
 - Können hervorragend schwimmen.
 - Können sich mühelos durch Schnee und Eis bewegen.
-*Autor: xenio*
+
+*Autor: [xenio](https://xenioinabottle.blogspot.com)*
