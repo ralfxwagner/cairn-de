@@ -9,4 +9,5 @@ grand_parent: Hilfsmittel
 - Nachtaktive Albino-Gorillas.
 - Verteidigen ihr Territorium erst mit Drohungen und dann mit Gewalt.
 - Werfen mit Steinen (W6).
-*Autor: xenio*
+
+*Autor: [xenio](https://xenioinabottle.blogspot.com)*
