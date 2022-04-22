@@ -9,4 +9,5 @@ grand_parent: Hilfsmittel
 - Weibliche anmutende Geister, die die Lebenden heimsuchen.
 - Unempfindlich gegen Kälte, Hitze oder die Elemente.
 - Kritischer Schaden: Ihr Wehklagen friert die Seele des Opfers ein (W8 WK-Schaden).
-*Autor: xenio*
+
+*Autor: [xenio](https://xenioinabottle.blogspot.com)*
