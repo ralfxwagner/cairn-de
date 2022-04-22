@@ -9,4 +9,5 @@ grand_parent: Hilfsmittel
 - Lange, magische, schlangenartige Eidechsen, die in Höhlen leben.
 - Jeder, der sie direkt ansieht, wird versteinert.
 - Kritischer Schaden: Das Opfer wird versteinert (W8+W8 GE-Schaden).
-*Autor: xenio*
+
+*Autor: [xenio](https://xenioinabottle.blogspot.com)*
