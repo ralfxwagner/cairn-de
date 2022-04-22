@@ -9,4 +9,5 @@ grand_parent: Hilfsmittel
 - 6ft (1,8m) große Bären, die sich hauptsächlich von Beeren und Wurzeln ernähren.
 - Sie greifen nur an, wenn sie in die Enge getrieben werden oder um ihre Jungen zu schützen.
 - Überfällt manchmal Lager auf der Suche nach Nahrung.
-*Autor: xenio*
+
+*Autor: [xenio](https://xenioinabottle.blogspot.com)*
