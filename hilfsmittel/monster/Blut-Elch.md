@@ -9,4 +9,5 @@ grand_parent: Hilfsmittel
 - Geboren aus einer gierigen, egoistischen Tat.
 - Greift an und tötet, um Fleisch zu fressen, werden aber niemals satt.
 - Kritischer Schaden: Zerfleischen ihr Opfer und reißt ihnen die Eingeweide heraus.
-*Autor: Yochai Gal*
+
+*Autor: [Yochai Gal](https://newschoolrevolution.com)*
