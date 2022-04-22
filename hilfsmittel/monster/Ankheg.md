@@ -9,4 +9,5 @@ grand_parent: Hilfsmittel
 - Riesige Insektoide mit mehreren Beinen und schwarzen glänzenden Augen.
 - Lauern direkt unter der Oberfläche den darüber laufenden Kreaturen auf.
 - Spritzt Säure (W10) auf weit entfernte Feinde.
-*Autor: xenio*
+
+*Autor: [xenio](https://xenioinabottle.blogspot.com)*
