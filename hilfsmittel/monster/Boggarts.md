@@ -10,4 +10,4 @@ grand_parent: Hilfsmittel
 - Lieben über alles Relikte und glänzende Schmuckstücke, sind aber nicht bereit, sie gegen Münzen zu tauschen.
 - Sie haben Namen, die ihre wahre Natur beschreiben. Wenn man ihren wahren Namen kennt, kann man sie kontrollieren.
 
-*Quelle: SRD*
+*Quelle: [SRD](/cairn-srd#Bestiarium)*
