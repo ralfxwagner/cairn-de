@@ -4,7 +4,7 @@ parent: Monster
 grand_parent: Hilfsmittel
 ---
 
-# Gruft-Ding [Crypt Thing]
+# Untoter Wächter
 12 TP, 3 Rüstung, 8 ST, 11 GE, 14 WK, Ätherische Klauen (W8)
 - Belebte Skelette in wogenden Gewändern. Ihre Augenhöhlen sind hypnotisch rot.
 - Verteidigen Krypten und Gräber und greift nicht an, solange sei nicht gestört werden.
