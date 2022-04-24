@@ -4,7 +4,7 @@ parent: Monster
 grand_parent: Hilfsmittel
 ---
 
-# Brigant [Brigand]
+# Mensch, Brigant [Brigand]
 4 TP, 1 Rüstung, Kurzschwert (W6) oder Kurzbogen (W6)
 - Gesetzlose und Söldner, die Siedlungen überfallen und Reisende in Hinterhalte locken.
 - Sie reisen in großen Gruppen von mindestens einem Trupp.

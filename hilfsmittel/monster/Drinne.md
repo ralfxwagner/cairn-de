@@ -4,7 +4,7 @@ parent: Monster
 grand_parent: Hilfsmittel
 ---
 
-# Dunkelelfspinne
+# Drinne [Drider]
 6 TP, 14 GE, Biss (W6)
 - Hybride Monstrositäten, die aus dem Transformationsritual der Diener der Dunkelelf-Spinnengottheit hervorgehen. Sie haben die 8 Beine einer Riesenspinne und den Oberkörper und Kopf eines Dunkelelfs.
 - Sie jagen in den Höhlen der Unterwelt und ernähren sich vom Blut gelähmter Opfer. Sie werden häufig von Riesenspinnen begleitet.

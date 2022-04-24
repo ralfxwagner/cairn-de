@@ -4,7 +4,7 @@ parent: Monster
 grand_parent: Hilfsmittel
 ---
 
-# Höhlenheuschrecke [Cave Locust]
+# Höhlengrille [Cave Locust / Cave Cricket]
 2 TP, 6 ST, 12 GE, Biss (W4)
 - Riesige, pflanzenfressende Grillen, die in Höhlen leben. Aufgrund ihrer natürlichen Färbung lassen sie sich vor steinigem Hintergrund kaum ausmachen.
 - Stößt bei Bedrohung laute Schreie aus, die möglicherweise andere Kreaturen in der Nähe alarmieren.

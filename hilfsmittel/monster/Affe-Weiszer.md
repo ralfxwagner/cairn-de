@@ -4,7 +4,7 @@ parent: Monster
 grand_parent: Hilfsmittel
 ---
 
-# Affe, Weiß [Ape, White]
+# Affe, Weißer [Ape, White]
 5 TP, 14 ST, Klauen (W6+W6)
 - Nachtaktive Albino-Gorillas.
 - Verteidigen ihr Territorium erst mit Drohungen und dann mit Gewalt.

@@ -4,7 +4,7 @@ parent: Monster
 grand_parent: Hilfsmittel
 ---
 
-# Blob, Schwarz [Black Pudding]
+# Schwarzer Blob [Black Pudding]
 10 TP, 5 GE, verschlingende Berührung (W8)
 - Riesige, hirnlose Klumpen schwarzer Gallerte, die von unstillbarem Hunger getrieben werden.
 - Können nur durch Flammen verletzt werden.
