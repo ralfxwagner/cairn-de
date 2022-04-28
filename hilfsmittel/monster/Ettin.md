@@ -4,12 +4,9 @@ parent: Monster
 grand_parent: Hilfsmittel
 ---
 
-# Estrie
-10 TP, 11 ST, 15 GE, 14 WK, auslaugendes Haar (W8)
-- Erscheinen als Frau mit langem dunklem Haar, das bis zu den Füßen reicht.
-- Können sich Nachts in Eulen verwandeln. Ihr Schrei ist ohrenbetäubend.
-- Das Trinken von Blut verleiht ihnen Kraft, aber sie können sich auch von Brot und Salz ernähren, wenn sie es von denen nehmen, denen sie Unrecht getan haben.
-- Das Binden ihrer Haare verhindert ihre Verwandlung. Sie können getötet werden, aber ihr Kopf muss danach begraben und der Mund mit Erde vollgestopft werden.
-- Kritischer Schaden: Das Ziel fällt für 1d4 Tage in Bewusstlosigkeit.
+# Ettin [Ettin]
+10 TP, 16 ST, 6 WK, Keule (W10)
+- Zweiköpfige Riesen mit geringer Intelligenz und aggressivem Verhalten. Sie leben unter der Erde und agieren nur in der Dunkelheit.
+- Ein Kopf ist immer wachsam, um nicht überrascht werden zu können.
 
-*Autor: [Yochai Gal](https://newschoolrevolution.com)*
+*Autor: [xenio](https://xenioinabottle.blogspot.com)*
