@@ -1007,7 +1007,7 @@ Wenn ein Angriff beeinträchtigt ist, wird der Würfel, unabhängig von der Waff
 Explosive Angriffe wirken flächendeckend, wobei für jedes Ziel separat gewürfelt wird.
 
 ## Schaden
-Wenn ein Angriff die TP einer SC genau auf 0 bringt, hat das einen Wurf auf die Verletzungstabelle zur Folge.
+Wenn ein Angriff die TP einer SC genau auf 0 bringt, hat das einen Wurf auf der Verletzungstabelle zur Folge.
 Schaden, der die TP eines Ziels unter 0 reduziert, verringert dessen ST um den Restwert. Das Ziel muss dann einen ST-Rettungswurf machen, um kritischen Schaden zu vermeiden. Scheitert der Wurf, wird das Ziel aus dem Kampf genommen und muss ohne Behandlung sterben.
 
 ST 0 bedeutet Tod
