@@ -12,7 +12,9 @@ Die PDF-Version ist kostenlos auf [Itch.io](https://cairn-de-team.itch.io/cairn)
 Der vollständige Text steht unter der Lizenz CC-BY-SA 4.0.
 Die Originaldatei des Affinity Publishers ist ebenfalls auf [Itch.io](https://cairn-de-team.itch.io/cairn-german-layout-file) verfügbar.
 
-Eine gedruckte Version der deutschen Ausgabe von Cairn wird bald erhältlich sein!
+Eine gedruckte Version der deutschen Ausgabe ist gratis bei System Matters erhältlich!
+(So lange der Vorrat reicht.)
+Einfach bei einer Bestellung im Kommentarfeld darum bitten.
 
 <p></p>
 
